@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>外国人留学生 求人ウォッチ</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <main class="wrap">
+    <header>
+      <p class="eyebrow">SEIFU / FOREIGN STUDENT JOB WATCH</p>
+      <h1>外国人留学生 求人ウォッチ</h1>
+      <p class="lead">大阪府を最優先に、正社員・契約社員の新着・更新求人を蓄積して表示します。</p>
+      <p id="updated" class="muted">データ読込中...</p>
+      <p class="muted"><a href="./reports/index.html">日次レポート一覧</a></p>
+    </header>
+
+    <section id="summary" class="cards" aria-label="集計"></section>
+
+    <section class="filters" aria-label="絞り込み">
+      <input id="q" type="search" placeholder="会社名・職種・勤務地で検索">
+      <select id="region">
+        <option value="">地域：すべて</option>
+        <option value="osaka">大阪</option>
+        <option value="kansai">関西</option>
+        <option value="other">その他</option>
+      </select>
+      <select id="judgement">
+        <option value="">判定：すべて</option>
+        <option value="strong">◎ 有力候補</option>
+        <option value="possible">○ 可能性あり</option>
+        <option value="home_country_bachelor">△ 母国大卒者向け</option>
+      </select>
+      <select id="employment">
+        <option value="">雇用：すべて</option>
+        <option value="正社員">正社員</option>
+        <option value="契約社員">契約社員</option>
+        <option value="紹介予定派遣">紹介予定派遣</option>
+      </select>
+      <select id="change">
+        <option value="">差分：すべて</option>
+        <option value="new">新着</option>
+        <option value="updated">更新</option>
+        <option value="reopened">再掲載</option>
+        <option value="unchanged">変更なし</option>
+      </select>
+      <label class="check"><input id="activeOnly" type="checkbox" checked> 掲載中のみ</label>
+    </section>
+
+    <section>
+      <div class="table-head"><h2>求人一覧</h2><span id="count" class="muted"></span></div>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>判定</th><th>会社・職種</th><th>勤務地</th><th>雇用</th><th>日本語</th><th>学歴</th><th>給与</th><th>差分</th><th>最終確認</th><th>個票</th>
+            </tr>
+          </thead>
+          <tbody id="jobs"></tbody>
+        </table>
+      </div>
+      <p id="empty" class="empty" hidden>条件に一致する求人はありません。</p>
+    </section>
+  </main>
+  <script src="./app.js"></script>
+</body>
+</html>
