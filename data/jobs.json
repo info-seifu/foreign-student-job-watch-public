@@ -84,11 +84,12 @@
       "deadline": "2026-11-22",
       "foreign_staff_text": "外国人事業部にベトナム人、ミャンマー人、ネパール人、バングラデシュ人が在籍。",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
+      "status": "closed",
       "change_type": "unchanged",
       "first_seen": "2026-08-31",
-      "last_checked": "2026-09-10",
-      "last_changed": "2026-08-31"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "2026-11-24棚卸し補正2：Mac Studioの実ブラウザで個票を開き「掲載が終了しております」を確認"
     },
     {
       "job_id": "doda-3015850388",
@@ -113,11 +114,12 @@
       "deadline": "2026-11-22",
       "foreign_staff_text": "外国人事業部にベトナム人、ミャンマー人、ネパール人、バングラデシュ人が在籍。",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
+      "status": "closed",
       "change_type": "unchanged",
       "first_seen": "2026-08-31",
-      "last_checked": "2026-09-10",
-      "last_changed": "2026-08-31"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "2026-11-24棚卸し補正2：Mac Studioの実ブラウザで個票を開き「掲載が終了しております」を確認"
     },
     {
       "job_id": "yolo-36962",
@@ -261,12 +263,12 @@
       "deadline": "2026-11-04",
       "foreign_staff_text": "海外出身メンバーが活躍する同職種の現行募集を確認。",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
+      "status": "closed",
       "change_type": "unchanged",
       "first_seen": "2026-09-01",
-      "last_checked": "2026-09-10",
-      "last_changed": "2026-08-20",
-      "notes": "2026-09-05に同社の現在募集中求人一覧で同職種の掲載継続を確認。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "2026-09-05に同社の現在募集中求人一覧で同職種の掲載継続を確認。 / 2026-11-24棚卸し補正2：Mac Studioの実ブラウザで個票を開き「掲載が終了しております」を確認"
     },
     {
       "job_id": "doda-3015187126",
@@ -1323,12 +1325,12 @@
       "deadline": "2026-11-04",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
+      "status": "closed",
       "change_type": "unchanged",
       "first_seen": "2026-09-06",
-      "last_checked": "2026-09-10",
-      "last_changed": "2026-09-06",
-      "notes": "2026-09-06に監視初回登録。doda掲載予定2026-08-06～2026-11-04。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "2026-09-06に監視初回登録。doda掲載予定2026-08-06～2026-11-04。 / 2026-11-24棚卸し補正2：Mac Studioの実ブラウザで個票を開き「掲載が終了しております」を確認"
     },
     {
       "job_id": "doda-3015602148",
@@ -1415,12 +1417,12 @@
       "deadline": "2026-11-15",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
+      "status": "closed",
       "change_type": "unchanged",
       "first_seen": "2026-09-06",
-      "last_checked": "2026-09-10",
-      "last_changed": "2026-09-06",
-      "notes": "2026-09-06に監視初回登録。実務経験必須のため可能性あり。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "2026-09-06に監視初回登録。実務経験必須のため可能性あり。 / 2026-11-24棚卸し補正2：Mac Studioの実ブラウザで個票を開き「掲載が終了しております」を確認"
     },
     {
       "job_id": "yolo-36555",
@@ -1692,7 +1694,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-08",
-      "last_checked": "2026-09-10",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-08",
       "notes": "2026-09-08にdoda現行個票を再確認。大卒以上、顧客折衝経験、普通免許が必須のため母国大卒者向けへ訂正。"
     },
@@ -1721,7 +1723,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-08",
-      "last_checked": "2026-09-10",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-08",
       "notes": "掲載予定2026-09-07～2026-11-29、更新日2026-09-07。大阪支社を含み、希望や通いやすさを考慮して配属。",
       "deadline": "2026-11-29"
@@ -1808,12 +1810,12 @@
       "application_method": "doda求人個票から応募",
       "foreign_staff_text": "31カ国・約290名の外国籍エンジニアが在籍。外国籍社員の管理職登用実績あり。",
       "foreign_hiring_text": "海外出身エンジニア活躍中。海外・遠方からの転職支援、日本に来るところから相談可との記載あり。",
-      "status": "active",
+      "status": "closed",
       "change_type": "unchanged",
       "first_seen": "2026-09-08",
-      "last_checked": "2026-09-10",
-      "last_changed": "2026-09-08",
-      "notes": "掲載予定2026-08-31～2026-11-22、更新日2026-08-31。ITインフラ実務経験必須のためpossible。",
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "掲載予定2026-08-31～2026-11-22、更新日2026-08-31。ITインフラ実務経験必須のためpossible。 / 2026-11-24棚卸し補正2：Mac Studioの実ブラウザで個票を開き「掲載が終了しております」を確認",
       "deadline": "2026-11-22"
     },
     {
@@ -1842,7 +1844,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-08",
-      "last_checked": "2026-09-10",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-07",
       "notes": "掲載予定2026-09-07～2026-11-29、更新日2026-09-07。CAD実務経験必須のためpossible。"
     },
@@ -1872,7 +1874,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-09",
-      "last_checked": "2026-09-10",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-09",
       "notes": "掲載予定2026-09-07～2026-11-29、更新日2026-09-07。実務経験不問だがCAD利用経験または関連専攻等の必須条件があるためpossible。"
     },
@@ -2087,12 +2089,12 @@
       "deadline": "2026-10-28",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
+      "status": "closed",
       "change_type": "unchanged",
       "first_seen": "2026-09-10",
-      "last_checked": "2026-09-10",
-      "last_changed": "2026-09-10",
-      "notes": "掲載予定2026-09-03～2026-10-28、更新日2026-09-08。未経験・学歴不問で大阪勤務を選べるため有力候補。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "掲載予定2026-09-03～2026-10-28、更新日2026-09-08。未経験・学歴不問で大阪勤務を選べるため有力候補。 / 2026-11-24棚卸し補正2：Mac Studioの実ブラウザで個票を開き「掲載が終了しております」を確認"
     },
     {
       "job_id": "doda-3015744537",
@@ -2117,12 +2119,12 @@
       "deadline": "2026-11-18",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
+      "status": "closed",
       "change_type": "unchanged",
       "first_seen": "2026-09-10",
-      "last_checked": "2026-09-10",
-      "last_changed": "2026-09-10",
-      "notes": "掲載予定2026-08-27～2026-11-18、更新日2026-09-01。デザイン・動画系へ直結し実務経験不要のため有力候補。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "掲載予定2026-08-27～2026-11-18、更新日2026-09-01。デザイン・動画系へ直結し実務経験不要のため有力候補。 / 2026-11-24棚卸し補正2：Mac Studioの実ブラウザで個票を開き「掲載が終了しております」を確認"
     },
     {
       "job_id": "hellowork-27010-33537161",
@@ -2327,12 +2329,12 @@
       "deadline": "2026-11-15",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
+      "status": "closed",
       "change_type": "unchanged",
       "first_seen": "2026-09-11",
-      "last_checked": "2026-09-11",
-      "last_changed": "2026-09-11",
-      "notes": "掲載予定2026-08-24～2026-11-15。未経験可だが機械系学部卒必須のためpossible。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "掲載予定2026-08-24～2026-11-15。未経験可だが機械系学部卒必須のためpossible。 / 2026-11-24棚卸し補正2：Mac Studioの実ブラウザで個票を開き「掲載が終了しております」を確認"
     },
     {
       "job_id": "hellowork-26020-23121961",
@@ -2600,7 +2602,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-13",
-      "last_checked": "2026-09-13",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-13",
       "notes": "doda掲載予定2026-09-10～2026-12-02。2026-09-13に個票を確認し監視初回登録。未経験・学歴不問のIT事務で大阪配属先を明示しているため有力候補。"
     },
@@ -2811,7 +2813,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-14",
-      "last_checked": "2026-09-14",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-14",
       "notes": "doda掲載予定2026-09-07～2026-11-29、更新日2026-09-10。2026-09-14に現行個票を確認し監視初回登録。実務経験条件のため○可能性あり。"
     },
@@ -2838,12 +2840,12 @@
       "deadline": "2026-10-28",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
+      "status": "closed",
       "change_type": "unchanged",
       "first_seen": "2026-09-14",
-      "last_checked": "2026-09-14",
-      "last_changed": "2026-09-14",
-      "notes": "doda掲載予定2026-07-30～2026-10-28、更新日2026-08-06。2026-09-14に個票を確認し監視初回登録。社会人経験必須のため○可能性あり。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "doda掲載予定2026-07-30～2026-10-28、更新日2026-08-06。2026-09-14に個票を確認し監視初回登録。社会人経験必須のため○可能性あり。 / 2026-11-24棚卸し補正2：Mac Studioの実ブラウザで個票を開き「掲載が終了しております」を確認"
     },
     {
       "job_id": "hellowork-27020-57068361",
@@ -3441,7 +3443,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-17",
-      "last_checked": "2026-09-17",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-17",
       "notes": "2026-09-17に現行個票を確認。大阪本社と各プロジェクト先を含む。"
     },
@@ -3773,7 +3775,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-20",
-      "last_checked": "2026-09-20",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-20",
       "notes": "IT系専攻卒なら実務経験要件を使わず応募条件に入る。BPO/フルアウトソーシング事業の案件。"
     },
@@ -3830,12 +3832,12 @@
       "deadline": "2026-12-09",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
+      "status": "closed",
       "change_type": "unchanged",
       "first_seen": "2026-09-20",
-      "last_checked": "2026-09-20",
-      "last_changed": "2026-09-20",
-      "notes": "ITサポート・運用保守等を行うアウトソーシング企業の完全未経験枠。顧客先に大阪を含む。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "ITサポート・運用保守等を行うアウトソーシング企業の完全未経験枠。顧客先に大阪を含む。 / 2026-11-24棚卸し補正2：Mac Studioの実ブラウザで個票を開き「掲載が終了しております」を確認"
     },
     {
       "job_id": "doda-3015750509",
@@ -4016,7 +4018,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-22",
-      "last_checked": "2026-09-22",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-22",
       "notes": "自社の医療IT製品を支える導入サポート・ヘルプデスク。未経験者を座学・OJTで育成。"
     },
@@ -4043,12 +4045,12 @@
       "deadline": "2026-11-22",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
+      "status": "closed",
       "change_type": "unchanged",
       "first_seen": "2026-09-22",
-      "last_checked": "2026-09-22",
-      "last_changed": "2026-09-22",
-      "notes": "IT専業ヘルプデスクではなく空調製品の技術カスタマーサポートだが、求人票がヘルプデスク機能・トラブルシューティングを明記。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "IT専業ヘルプデスクではなく空調製品の技術カスタマーサポートだが、求人票がヘルプデスク機能・トラブルシューティングを明記。 / 2026-11-24棚卸し補正2：Mac Studioの実ブラウザで個票を開き「掲載が終了しております」を確認"
     },
     {
       "job_id": "doda-3015213979",
@@ -4106,7 +4108,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-22",
-      "last_checked": "2026-09-22",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-22",
       "notes": "専門学校卒を学歴条件に含むが、BtoB/外勤/IT・建設業界経験のいずれか＋普通免許が必須のためpossible。"
     },
@@ -4196,7 +4198,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-22",
-      "last_checked": "2026-09-22",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-22",
       "notes": "職務経験不問だが大卒以上＋普通免許が必須。母国大学卒業済み学生向けとしてhome_country_bachelor。"
     },
@@ -4256,7 +4258,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-23",
-      "last_checked": "2026-09-23",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-23",
       "notes": "職種未経験歓迎だが、GAS/AppSheet/Cloud Codeの経験・知識が必要なためpossible。独学・個人開発でも可。"
     },
@@ -4283,12 +4285,12 @@
       "deadline": "2026-10-25",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
+      "status": "closed",
       "change_type": "unchanged",
       "first_seen": "2026-09-23",
-      "last_checked": "2026-09-23",
-      "last_changed": "2026-09-23",
-      "notes": "大阪を含む関西配属あり。未経験者向け研修後、IT運用・ヘルプデスク・データセンター等の案件へ配属。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "大阪を含む関西配属あり。未経験者向け研修後、IT運用・ヘルプデスク・データセンター等の案件へ配属。 / 2026-11-24棚卸し補正2：Mac Studioの実ブラウザで個票を開き「掲載が終了しております」を確認"
     },
     {
       "job_id": "hellowork-27020-39505061",
@@ -4376,7 +4378,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-23",
-      "last_checked": "2026-09-23",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-23",
       "notes": "Revit未経験可だが設計業務またはデータ分析の経験が必須のためpossible。BIM運用支援・DX推進企業。"
     },
@@ -4463,12 +4465,12 @@
       "deadline": "2026-11-04",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
+      "status": "closed",
       "change_type": "unchanged",
       "first_seen": "2026-09-24",
-      "last_checked": "2026-09-24",
-      "last_changed": "2026-09-24",
-      "notes": "2026-09-24に初観測。大阪支社・大阪顧客先あり。入社後2カ月研修は東京で実施し、その後も東京勤務が必要となる場合がある旨の記載あり。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "2026-09-24に初観測。大阪支社・大阪顧客先あり。入社後2カ月研修は東京で実施し、その後も東京勤務が必要となる場合がある旨の記載あり。 / 2026-11-24棚卸し補正2：Mac Studioの実ブラウザで個票を開き「掲載が終了しております」を確認"
     },
     {
       "job_id": "doda-3015413290",
@@ -4493,12 +4495,12 @@
       "deadline": "2026-10-28",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
+      "status": "closed",
       "change_type": "unchanged",
       "first_seen": "2026-09-24",
-      "last_checked": "2026-09-24",
-      "last_changed": "2026-09-24",
-      "notes": "2026-09-24に初観測。関西プロジェクトと大阪支社を明示。正社員雇用型アウトソーシング。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "2026-09-24に初観測。関西プロジェクトと大阪支社を明示。正社員雇用型アウトソーシング。 / 2026-11-24棚卸し補正2：Mac Studioの実ブラウザで個票を開き「掲載が終了しております」を確認"
     },
     {
       "job_id": "doda-3015989353",
@@ -4553,12 +4555,12 @@
       "deadline": "2026-12-16",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
+      "status": "closed",
       "change_type": "unchanged",
       "first_seen": "2026-09-24",
-      "last_checked": "2026-09-24",
-      "last_changed": "2026-09-24",
-      "notes": "掲載開始・更新日2026-09-24。実務経験必須のためpossible。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "掲載開始・更新日2026-09-24。実務経験必須のためpossible。 / 2026-11-24棚卸し補正2：Mac Studioの実ブラウザで個票を開き「掲載が終了しております」を確認"
     },
     {
       "job_id": "doda-3015980637",
@@ -4586,7 +4588,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-24",
-      "last_checked": "2026-09-24",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-24",
       "notes": "掲載開始・更新日2026-09-24。職種未経験枠だがSE開発経験が必須のためpossible。"
     },
@@ -4616,7 +4618,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-24",
-      "last_checked": "2026-09-24",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-24",
       "notes": "掲載開始・更新日2026-09-24。インフラ実務経験必須のためpossible。"
     },
@@ -4796,7 +4798,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-28",
-      "last_checked": "2026-09-28",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-28",
       "notes": "2026-09-28に初観測。大阪市勤務確約・自社勤務・未経験可。実務0年のCAD/デザイン系学生に接続しやすい。"
     },
@@ -4886,7 +4888,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-28",
-      "last_checked": "2026-09-28",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-28",
       "notes": "2026-09-28に初観測。未経験から事業会社の情シス・社内SEへ入る求人。"
     },
@@ -4913,12 +4915,12 @@
       "deadline": "2026-12-16",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
+      "status": "closed",
       "change_type": "unchanged",
       "first_seen": "2026-09-28",
-      "last_checked": "2026-09-28",
-      "last_changed": "2026-09-28",
-      "notes": "2026-09-28に初観測。IT専門学生なら自己学習要件を満たしやすく、実務未経験から育成する求人。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "2026-09-28に初観測。IT専門学生なら自己学習要件を満たしやすく、実務未経験から育成する求人。 / 2026-11-24棚卸し補正2：Mac Studioの実ブラウザで個票を開き「掲載が終了しております」を確認"
     },
     {
       "job_id": "doda-3015523555",
@@ -4976,7 +4978,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-29",
-      "last_checked": "2026-09-29",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-29",
       "notes": "2026-09-29初観測。求人は9/29更新。大阪・未経験・学歴不問でIT運用からセキュリティ、開発まで育成するためstrong。"
     },
@@ -5036,7 +5038,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-29",
-      "last_checked": "2026-09-29",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-29",
       "notes": "掲載予定2026-09-28～12-20。実務経験条件があるためpossible。"
     },
@@ -5066,7 +5068,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-29",
-      "last_checked": "2026-09-29",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-29",
       "notes": "掲載予定2026-09-28～12-20。サーバー／ネットワーク構築経験必須のためpossible。"
     },
@@ -5094,12 +5096,12 @@
       "deadline": "2026-11-22",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
+      "status": "closed",
       "change_type": "unchanged",
       "first_seen": "2026-09-29",
-      "last_checked": "2026-09-29",
-      "last_changed": "2026-09-29",
-      "notes": "掲載予定2026-09-28～11-22。IT職ではないが学歴・経験不問で大阪勤務のため広めの就職候補としてstrong。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "掲載予定2026-09-28～11-22。IT職ではないが学歴・経験不問で大阪勤務のため広めの就職候補としてstrong。 / 2026-11-24棚卸し補正2：Mac Studioの実ブラウザで個票を開き「掲載が終了しております」を確認"
     },
     {
       "job_id": "doda-3015877028",
@@ -5127,7 +5129,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-05",
-      "last_checked": "2026-10-05",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-05",
       "notes": "2026-10-05にcurrent main（最終観測2026-09-29）との差分として初回登録。2026-10-05時点で求人個票の掲載継続を確認。"
     },
@@ -5157,7 +5159,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-05",
-      "last_checked": "2026-10-05",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-05",
       "notes": "2026-10-05にcurrent main（最終観測2026-09-29）との差分として初回登録。2026-10-05時点で求人個票の掲載継続を確認。"
     },
@@ -5217,7 +5219,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-05",
-      "last_checked": "2026-10-05",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-05",
       "notes": "2026-10-05にcurrent main（最終観測2026-09-29）との差分として初回登録。2026-10-05時点で求人個票の掲載継続を確認。"
     },
@@ -5247,7 +5249,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-05",
-      "last_checked": "2026-10-05",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-05",
       "notes": "2026-10-05にcurrent main（最終観測2026-09-29）との差分として初回登録。2026-10-05時点で求人個票の掲載継続を確認。"
     },
@@ -5277,7 +5279,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-05",
-      "last_checked": "2026-10-05",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-05",
       "notes": "2026-10-05にcurrent main（最終観測2026-09-29）との差分として初回登録。2026-10-05時点で求人個票の掲載継続を確認。"
     },
@@ -5339,7 +5341,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-05",
-      "last_checked": "2026-10-05",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-05",
       "notes": "2026-10-05にcurrent main（最終観測2026-09-29）との差分として初回登録。2026-10-05時点で求人個票の掲載継続を確認。"
     },
@@ -5459,7 +5461,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-05",
-      "last_checked": "2026-10-05",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-05",
       "notes": "2026-10-05にcurrent main（最終観測2026-09-29）との差分として初回登録。2026-10-05時点で求人個票の掲載継続を確認。"
     },
@@ -5612,7 +5614,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-05",
-      "last_checked": "2026-10-05",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-05",
       "notes": "2026-10-05掲載開始・更新の新着を同日初観測。大阪を希望勤務地として選択可能。"
     },
@@ -5642,7 +5644,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-05",
-      "last_checked": "2026-10-05",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-05",
       "notes": "2026-10-05掲載開始・更新の新着を同日初観測。大阪拠点は積極採用。"
     },
@@ -5672,7 +5674,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-05",
-      "last_checked": "2026-10-05",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-05",
       "notes": "2026-10-01掲載開始・更新。2026-10-05初観測。神戸の未経験CAD育成求人。"
     },
@@ -5699,12 +5701,12 @@
       "deadline": "2026-10-18",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
+      "status": "closed",
       "change_type": "unchanged",
       "first_seen": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "last_changed": "2026-10-05",
-      "notes": "2026-09-21掲載開始・更新。2026-10-05初観測。大阪配属あり、未経験CAD育成枠。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "2026-09-21掲載開始・更新。2026-10-05初観測。大阪配属あり、未経験CAD育成枠。 / 2026-11-24棚卸し補正2：Mac Studioの実ブラウザで個票を開き「掲載が終了しております」を確認"
     },
     {
       "job_id": "doda-3016001866",
@@ -5732,7 +5734,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-06",
-      "last_checked": "2026-10-06",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-06",
       "notes": "2026-10-05掲載開始・更新。2026-10-06初観測。C/C++/Pythonの学習経験でも応募条件を満たし得るためstrong。"
     },
@@ -5762,7 +5764,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-06",
-      "last_checked": "2026-10-06",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-06",
       "notes": "2026-10-05掲載開始・更新。2026-10-06初観測。4カ月CAD研修付きの未経験育成枠。"
     },
@@ -5792,7 +5794,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-06",
-      "last_checked": "2026-10-06",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-06",
       "notes": "2026-10-05掲載開始・更新。2026-10-06初観測。必須条件なし・3年間育成のためstrong。"
     },
@@ -5822,7 +5824,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-06",
-      "last_checked": "2026-10-06",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-06",
       "notes": "2026-10-05掲載開始・更新。2026-10-06初観測。デザイン・Web系学生にも接続しやすい未経験マーケティング枠。"
     },
@@ -5852,7 +5854,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-06",
-      "last_checked": "2026-10-06",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-06",
       "notes": "2026-10-05掲載開始・更新。2026-10-06初観測。動画・デザイン系学生向けの未経験育成枠。",
       "conversion_to_regular": "試用期間終了後に正社員となる旨記載。"
@@ -5883,7 +5885,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-06",
-      "last_checked": "2026-10-06",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-06",
       "notes": "2026-10-05掲載開始・更新。2026-10-06初観測。電気系学科卒または実務経験条件があるためpossible。"
     },
@@ -5913,7 +5915,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-06",
-      "last_checked": "2026-10-06",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-06",
       "notes": "2026-10-05掲載開始・更新。2026-10-06初観測。CAD業務経験が必須のためpossible。"
     },
@@ -5943,7 +5945,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-06",
-      "last_checked": "2026-10-06",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-06",
       "notes": "2026-10-05掲載開始・更新。2026-10-06初観測。CAD実務経験条件があるためpossible。"
     },
@@ -5973,7 +5975,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-06",
-      "last_checked": "2026-10-06",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-06",
       "notes": "2026-10-05掲載開始・更新。2026-10-06初観測。契約社員だが更新あり・正社員制度年2回。",
       "renewal": "更新あり（業務習熟度・勤務実績等に応じ更新）。更新上限：通算契約期間3年6カ月。",
