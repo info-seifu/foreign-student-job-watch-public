@@ -24,12 +24,12 @@
       "deadline": "2026-11-22",
       "foreign_staff_text": "外国人事業部にベトナム人、ミャンマー人、ネパール人、バングラデシュ人が在籍。",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-08-31",
-      "last_checked": "2026-10-19",
-      "last_changed": "2026-10-19",
-      "notes": "2026-09-05に現行掲載を再確認。 2026-10-19：doda個票を再読し、従来DBに未反映だった『数値を追う販売・接客経験1年以上必須』を補正。掲載サイトの更新日を意味しない。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "2026-09-05に現行掲載を再確認。 2026-10-19：doda個票を再読し、従来DBに未反映だった『数値を追う販売・接客経験1年以上必須』を補正。掲載サイトの更新日を意味しない。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "doda-3015850362",
@@ -54,12 +54,12 @@
       "deadline": "2026-11-22",
       "foreign_staff_text": "外国人事業部にベトナム人、ミャンマー人、ネパール人、バングラデシュ人が在籍。",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-08-31",
-      "last_checked": "2026-10-19",
-      "last_changed": "2026-10-19",
-      "notes": "2026-09-05に現行掲載を再確認。 2026-10-19：doda個票を再読し、従来DBに未反映だった『数値を追う販売・接客経験1年以上必須』を補正。掲載サイトの更新日を意味しない。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "2026-09-05に現行掲載を再確認。 2026-10-19：doda個票を再読し、従来DBに未反映だった『数値を追う販売・接客経験1年以上必須』を補正。掲載サイトの更新日を意味しない。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "doda-3015850369",
@@ -145,8 +145,9 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-08-31",
-      "last_checked": "2026-09-11",
-      "last_changed": "2026-08-25"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-08-25",
+      "notes": "2026-11-24棚卸し：一時停止中（応募受付なし）"
     },
     {
       "job_id": "yolo-37055",
@@ -173,8 +174,9 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-08-31",
-      "last_checked": "2026-09-11",
-      "last_changed": "2026-08-29"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-08-29",
+      "notes": "2026-11-24棚卸し：一時停止中（応募受付なし）"
     },
     {
       "job_id": "doda-3015370406",
@@ -351,8 +353,9 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-01",
-      "last_checked": "2026-09-11",
-      "last_changed": "2026-06-17"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-06-17",
+      "notes": "2026-11-24棚卸し：一時停止中（応募受付なし）"
     },
     {
       "job_id": "yolo-35697",
@@ -381,8 +384,9 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-01",
-      "last_checked": "2026-09-11",
-      "last_changed": "2026-06-01"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-06-01",
+      "notes": "2026-11-24棚卸し：一時停止中（応募受付なし）"
     },
     {
       "job_id": "doda-3015147689",
@@ -440,8 +444,9 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-02",
-      "last_checked": "2026-09-11",
-      "last_changed": "2026-07-21"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-07-21",
+      "notes": "2026-11-24棚卸し：一時停止中（応募受付なし）"
     },
     {
       "job_id": "yolo-35901",
@@ -469,8 +474,9 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-02",
-      "last_checked": "2026-09-11",
-      "last_changed": "2026-06-16"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-06-16",
+      "notes": "2026-11-24棚卸し：一時停止中（応募受付なし）"
     },
     {
       "job_id": "yolo-35937",
@@ -497,8 +503,9 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-02",
-      "last_checked": "2026-09-11",
-      "last_changed": "2026-06-18"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-06-18",
+      "notes": "2026-11-24棚卸し：一時停止中（応募受付なし）"
     },
     {
       "job_id": "doda-3015338098",
@@ -616,8 +623,9 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-02",
-      "last_checked": "2026-09-11",
-      "last_changed": "2026-06-20"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-06-20",
+      "notes": "2026-11-24棚卸し：一時停止中（応募受付なし）"
     },
     {
       "job_id": "yolo-36279",
@@ -644,8 +652,9 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-02",
-      "last_checked": "2026-09-11",
-      "last_changed": "2026-07-22"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-07-22",
+      "notes": "2026-11-24棚卸し：一時停止中（応募受付なし）"
     },
     {
       "job_id": "yolo-36021",
@@ -672,8 +681,9 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-02",
-      "last_checked": "2026-09-11",
-      "last_changed": "2026-06-25"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-06-25",
+      "notes": "2026-11-24棚卸し：一時停止中（応募受付なし）"
     },
     {
       "job_id": "yolo-37127",
@@ -702,8 +712,9 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-03",
-      "last_checked": "2026-09-11",
-      "last_changed": "2026-09-03"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-09-03",
+      "notes": "2026-11-24棚卸し：一時停止中（応募受付なし）"
     },
     {
       "job_id": "yolo-37125",
@@ -731,8 +742,9 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-03",
-      "last_checked": "2026-09-11",
-      "last_changed": "2026-09-02"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-09-02",
+      "notes": "2026-11-24棚卸し：一時停止中（応募受付なし）"
     },
     {
       "job_id": "yolo-31694",
@@ -761,8 +773,9 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-03",
-      "last_checked": "2026-09-11",
-      "last_changed": "2025-06-05"
+      "last_checked": "2026-11-24",
+      "last_changed": "2025-06-05",
+      "notes": "2026-11-24棚卸し：一時停止中（応募受付なし）"
     },
     {
       "job_id": "doda-3015204839",
@@ -822,8 +835,9 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-03",
-      "last_checked": "2026-09-11",
-      "last_changed": "2026-09-02"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-09-02",
+      "notes": "2026-11-24棚卸し：一時停止中（応募受付なし）"
     },
     {
       "job_id": "yolo-37129",
@@ -884,8 +898,9 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-04",
-      "last_checked": "2026-09-11",
-      "last_changed": "2026-09-04"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-09-04",
+      "notes": "2026-11-24棚卸し：一時停止中（応募受付なし）"
     },
     {
       "job_id": "yolo-23266",
@@ -914,8 +929,9 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-04",
-      "last_checked": "2026-09-11",
-      "last_changed": "2026-09-04"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-09-04",
+      "notes": "2026-11-24棚卸し：一時停止中（応募受付なし）"
     },
     {
       "job_id": "yolo-29024",
@@ -943,8 +959,9 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-04",
-      "last_checked": "2026-09-11",
-      "last_changed": "2026-09-04"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-09-04",
+      "notes": "2026-11-24棚卸し：一時停止中（応募受付なし）"
     },
     {
       "job_id": "yolo-30472",
@@ -973,8 +990,9 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-04",
-      "last_checked": "2026-09-11",
-      "last_changed": "2026-09-04"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-09-04",
+      "notes": "2026-11-24棚卸し：一時停止中（応募受付なし）"
     },
     {
       "job_id": "yolo-35184",
@@ -1003,8 +1021,9 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-04",
-      "last_checked": "2026-09-11",
-      "last_changed": "2026-09-04"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-09-04",
+      "notes": "2026-11-24棚卸し：一時停止中（応募受付なし）"
     },
     {
       "job_id": "yolo-24543",
@@ -1032,8 +1051,9 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-04",
-      "last_checked": "2026-09-11",
-      "last_changed": "2026-09-04"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-09-04",
+      "notes": "2026-11-24棚卸し：一時停止中（応募受付なし）"
     },
     {
       "job_id": "yolo-35157",
@@ -1063,9 +1083,9 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-05",
-      "last_checked": "2026-09-11",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-05",
-      "notes": "求人更新日2026-05-01。2026-09-05に応募導線を確認して初回登録。"
+      "notes": "求人更新日2026-05-01。2026-09-05に応募導線を確認して初回登録。 2026-11-24棚卸し：一時停止中（応募受付なし）"
     },
     {
       "job_id": "yolo-28493",
@@ -1094,9 +1114,9 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-05",
-      "last_checked": "2026-09-11",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-05",
-      "notes": "求人更新日2024-10-09だが、2026-09-05に応募導線を確認して初回登録。会計知識要件のため可能性あり。"
+      "notes": "求人更新日2024-10-09だが、2026-09-05に応募導線を確認して初回登録。会計知識要件のため可能性あり。 2026-11-24棚卸し：一時停止中（応募受付なし）"
     },
     {
       "job_id": "doda-3015435531",
@@ -1181,12 +1201,12 @@
       "deadline": "2026-11-25",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-09-05",
-      "last_checked": "2026-09-10",
-      "last_changed": "2026-09-05",
-      "notes": "doda掲載予定2026-09-03～2026-11-25。普通免許必須のため可能性あり。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "doda掲載予定2026-09-03～2026-11-25。普通免許必須のため可能性あり。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "doda-3015794493",
@@ -1211,12 +1231,12 @@
       "deadline": "2026-11-25",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-09-05",
-      "last_checked": "2026-09-10",
-      "last_changed": "2026-09-05",
-      "notes": "doda掲載予定2026-09-03～2026-11-25。実務経験1年以上が必須のため可能性あり。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "doda掲載予定2026-09-03～2026-11-25。実務経験1年以上が必須のため可能性あり。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "doda-3015651410",
@@ -1241,12 +1261,12 @@
       "deadline": "2026-10-28",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-09-05",
-      "last_checked": "2026-09-10",
-      "last_changed": "2026-09-05",
-      "notes": "doda掲載予定2026-07-30～2026-10-28、更新日2026-08-27。AutoCAD使用経験必須のため可能性あり。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "doda掲載予定2026-07-30～2026-10-28、更新日2026-08-27。AutoCAD使用経験必須のため可能性あり。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "yolo-36917",
@@ -1274,9 +1294,9 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-05",
-      "last_checked": "2026-09-11",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-05",
-      "notes": "求人更新日2026-08-11。普通免許必須のため可能性あり。"
+      "notes": "求人更新日2026-08-11。普通免許必須のため可能性あり。 2026-11-24棚卸し：一時停止中（応募受付なし）"
     },
     {
       "job_id": "doda-3015445888",
@@ -1333,12 +1353,12 @@
       "deadline": "2026-10-21",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-09-06",
-      "last_checked": "2026-09-10",
-      "last_changed": "2026-09-06",
-      "notes": "2026-09-06に監視初回登録。doda掲載予定2026-07-23～2026-10-21。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "2026-09-06に監視初回登録。doda掲載予定2026-07-23～2026-10-21。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "doda-3015364817",
@@ -1428,9 +1448,9 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-06",
-      "last_checked": "2026-09-11",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-06",
-      "notes": "2026-09-06に監視初回登録。YOLO JAPAN日本語ページの求人更新日は2026-09-04。N3以上・英語必須・未経験歓迎。応募条件の在留資格は「永住者、定住者、配偶者など」。"
+      "notes": "2026-09-06に監視初回登録。YOLO JAPAN日本語ページの求人更新日は2026-09-04。N3以上・英語必須・未経験歓迎。応募条件の在留資格は「永住者、定住者、配偶者など」。 2026-11-24棚卸し：一時停止中（応募受付なし）"
     },
     {
       "job_id": "yolo-37126",
@@ -1459,9 +1479,9 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-07",
-      "last_checked": "2026-09-11",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-07",
-      "notes": "求人更新日2026-09-06。貿易事務3年以上必須のため可能性あり。"
+      "notes": "求人更新日2026-09-06。貿易事務3年以上必須のため可能性あり。 2026-11-24棚卸し：一時停止中（応募受付なし）"
     },
     {
       "job_id": "yolo-37177",
@@ -1491,9 +1511,9 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-07",
-      "last_checked": "2026-09-11",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-07",
-      "notes": "求人更新日2026-09-06。IT・デザイン職ではないため可能性ありとして保持。"
+      "notes": "求人更新日2026-09-06。IT・デザイン職ではないため可能性ありとして保持。 2026-11-24棚卸し：一時停止中（応募受付なし）"
     },
     {
       "job_id": "doda-3014829727",
@@ -1518,12 +1538,12 @@
       "deadline": null,
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-09-07",
-      "last_checked": "2026-09-10",
-      "last_changed": "2026-09-07",
-      "notes": "2026-09-07に現行個票・応募ボタンを確認。IT・デザイン系学生との接続が強く、実務経験・学歴不問のため有力候補。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "2026-09-07に現行個票・応募ボタンを確認。IT・デザイン系学生との接続が強く、実務経験・学歴不問のため有力候補。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "hellowork-27010-40135461",
@@ -1553,7 +1573,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-07",
-      "last_checked": "2026-09-11",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-07",
       "notes": "受付2026-09-01。IT未経験・学歴不問で正社員登用実績もあるため有力候補。"
     },
@@ -1583,7 +1603,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-07",
-      "last_checked": "2026-09-11",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-07",
       "notes": "受理2026-08-07。IT未経験歓迎・経験不問・外国人雇用実績ありのため有力候補。"
     },
@@ -1613,7 +1633,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-07",
-      "last_checked": "2026-09-11",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-07",
       "notes": "受付2026-08-20。経験2年以上は歓迎条件で、IT知識があれば実務0年でも求人票上候補になり得るため有力候補。"
     },
@@ -1643,7 +1663,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-07",
-      "last_checked": "2026-09-11",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-07",
       "notes": "受理2026-08-31。IT職として適合するが経験条件があるため可能性あり。"
     },
@@ -1759,12 +1779,12 @@
       "deadline": "2026-11-01",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "語学力がある方は将来的に外国人採用領域を開拓するコアメンバーとして活躍できる旨の記載あり。",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-09-08",
-      "last_checked": "2026-09-10",
-      "last_changed": "2026-08-19",
-      "notes": "掲載予定2026-08-03～2026-11-01、更新日2026-08-19。実務経験条件があるためpossible。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "掲載予定2026-08-03～2026-11-01、更新日2026-08-19。実務経験条件があるためpossible。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "doda-3015733168",
@@ -1884,9 +1904,9 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-09",
-      "last_checked": "2026-09-11",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-09",
-      "notes": "2026-09-09に監視初回登録。現行個票を再確認し、求人更新日は2026-05-25、時給1,400円～。N3・未経験可、製造データ編集とPC事務で専攻接続があり、契約社員だが正社員登用の可能性が明記されているためstrong。"
+      "notes": "2026-09-09に監視初回登録。現行個票を再確認し、求人更新日は2026-05-25、時給1,400円～。N3・未経験可、製造データ編集とPC事務で専攻接続があり、契約社員だが正社員登用の可能性が明記されているためstrong。 2026-11-24棚卸し：一時停止中（応募受付なし）"
     },
     {
       "job_id": "yolo-31049",
@@ -1916,9 +1936,9 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-09",
-      "last_checked": "2026-09-11",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-09",
-      "notes": "2026-09-09に監視初回登録。現行個票を再確認し、求人ID31049はホテル内レストランの調理スタッフ、求人更新日2025-06-05。N3・未経験可だが英語必須、IT・デザイン専攻との直接接続が弱いためpossible。"
+      "notes": "2026-09-09に監視初回登録。現行個票を再確認し、求人ID31049はホテル内レストランの調理スタッフ、求人更新日2025-06-05。N3・未経験可だが英語必須、IT・デザイン専攻との直接接続が弱いためpossible。 2026-11-24棚卸し：一時停止中（応募受付なし）"
     },
     {
       "job_id": "doda-3015437210",
@@ -1943,12 +1963,12 @@
       "deadline": "2026-10-28",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-09-09",
-      "last_checked": "2026-09-10",
-      "last_changed": "2026-09-09",
-      "notes": "掲載予定2026-07-30～2026-10-28。大阪を含む全国配属、学歴不問・未経験歓迎・2カ月研修のためstrong。無期雇用派遣の記載も保持。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "掲載予定2026-07-30～2026-10-28。大阪を含む全国配属、学歴不問・未経験歓迎・2カ月研修のためstrong。無期雇用派遣の記載も保持。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "doda-3015743145",
@@ -1973,12 +1993,12 @@
       "deadline": "2026-11-11",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-09-09",
-      "last_checked": "2026-09-10",
-      "last_changed": "2026-09-09",
-      "notes": "掲載予定2026-08-20～2026-11-11、更新日2026-08-26。学歴不問・未経験歓迎で大阪を含む希望勤務地配属。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "掲載予定2026-08-20～2026-11-11、更新日2026-08-26。学歴不問・未経験歓迎で大阪を含む希望勤務地配属。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "hellowork-27010-39593661",
@@ -2008,7 +2028,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-10",
-      "last_checked": "2026-09-10",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-10",
       "notes": "受付2026-09-01。経験・学歴・PCスキル不問でIT研修＋正社員登用予定のため有力候補。"
     },
@@ -2037,12 +2057,12 @@
       "deadline": "2026-10-31",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-09-10",
-      "last_checked": "2026-09-10",
-      "last_changed": "2026-09-10",
-      "notes": "受付2026-08-26。経験・学歴・資格不問のITヘルプデスクで、正社員登用実績もあるため有力候補。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "受付2026-08-26。経験・学歴・資格不問のITヘルプデスクで、正社員登用実績もあるため有力候補。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "doda-3015769354",
@@ -2157,12 +2177,12 @@
       "deadline": "2026-11-15",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-09-10",
-      "last_checked": "2026-09-10",
-      "last_changed": "2026-09-10",
-      "notes": "掲載予定2026-08-24～2026-11-15。必須条件に経験または3D CAD操作経験があるため可能性あり。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "掲載予定2026-08-24～2026-11-15。必須条件に経験または3D CAD操作経験があるため可能性あり。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "hellowork-27020-56813661",
@@ -2190,7 +2210,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-10",
-      "last_checked": "2026-09-11",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-10",
       "notes": "受付2026-09-07。IT未経験・3カ月研修だが、日本語非母語話者はN1必須のため可能性あり。"
     },
@@ -2220,7 +2240,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-11",
-      "last_checked": "2026-09-11",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-11",
       "notes": "受付2026-09-07。経験・学歴・資格不問でITサポート職。"
     },
@@ -2250,7 +2270,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-11",
-      "last_checked": "2026-09-11",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-11",
       "notes": "受付2026-08-14。未経験・学歴・資格不問でIT研修あり。"
     },
@@ -2340,7 +2360,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-11",
-      "last_checked": "2026-09-11",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-11",
       "notes": "受付2026-09-04。未経験OKの社内ITサポート。"
     },
@@ -2370,7 +2390,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-11",
-      "last_checked": "2026-09-11",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-11",
       "notes": "受付2026-09-07。全国探索枠で確認した未経験可の社内ITサポート。"
     },
@@ -2400,7 +2420,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-12",
-      "last_checked": "2026-09-12",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-12",
       "notes": "2026-09-12に監視初回登録。未経験・学歴不問でPOSヘルプデスクとテスト業務を含むため有力候補。"
     },
@@ -2460,7 +2480,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-12",
-      "last_checked": "2026-09-12",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-12",
       "notes": "2026-09-12に監視初回登録。実務経験不問の開発・運用・保守職で研修あり。"
     },
@@ -2550,7 +2570,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-12",
-      "last_checked": "2026-09-12",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-12",
       "notes": "2026-09-12に全国探索枠で初回登録。未経験・学歴不問のITヘルプデスク。"
     },
@@ -2637,12 +2657,12 @@
       "deadline": "2026-10-07",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-09-13",
-      "last_checked": "2026-10-07",
-      "last_changed": "2026-09-13",
-      "notes": "doda掲載予定2026-07-09～2026-10-07、更新日2026-07-15。2026-09-13に個票を確認し監視初回登録。Web・デザイン・IT各職種へ未経験から進め、大阪の具体的勤務地が多数掲載されているため有力候補。 2026-10-07に締切当日の個票掲載継続を確認。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "doda掲載予定2026-07-09～2026-10-07、更新日2026-07-15。2026-09-13に個票を確認し監視初回登録。Web・デザイン・IT各職種へ未経験から進め、大阪の具体的勤務地が多数掲載されているため有力候補。 2026-10-07に締切当日の個票掲載継続を確認。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "doda-3014560769",
@@ -2758,12 +2778,12 @@
       "deadline": "2026-10-21",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-09-14",
-      "last_checked": "2026-09-14",
-      "last_changed": "2026-09-14",
-      "notes": "doda掲載予定2026-07-23～2026-10-21、更新日2026-08-28。2026-09-14に個票を確認し監視初回登録。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "doda掲載予定2026-07-23～2026-10-21、更新日2026-08-28。2026-09-14に個票を確認し監視初回登録。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "doda-3015908791",
@@ -2851,7 +2871,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-15",
-      "last_checked": "2026-09-15",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-15",
       "notes": "2026-09-15に現行個票を確認。掲載日2026-09-09。未経験者向け研修を明記。"
     },
@@ -2881,7 +2901,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-15",
-      "last_checked": "2026-09-15",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-15",
       "notes": "2026-09-15に現行個票を確認。入社後1カ月のマナー・IT基礎教育あり。"
     },
@@ -2911,7 +2931,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-15",
-      "last_checked": "2026-09-15",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-15",
       "notes": "2026-09-15に現行個票を確認。実務経験は不要だがHTML/CSSの制作スキルは必要。"
     },
@@ -3478,12 +3498,12 @@
       "deadline": "2026-10-25",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-09-18",
-      "last_checked": "2026-09-18",
-      "last_changed": "2026-09-18",
-      "notes": "doda掲載予定2026-08-31～2026-10-25。勤務先は取引先企業で、IT系サポート案件を含む。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "doda掲載予定2026-08-31～2026-10-25。勤務先は取引先企業で、IT系サポート案件を含む。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "hellowork-27010-40146961",
@@ -3511,7 +3531,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-18",
-      "last_checked": "2026-09-18",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-18",
       "notes": "受理日2026-09-01。未経験可だが独力でプログラムを組めるスキル条件があるためpossible。"
     },
@@ -3541,7 +3561,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-18",
-      "last_checked": "2026-09-18",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-18",
       "notes": "受理日2026-08-06。未経験歓迎かつ外国人雇用実績あり。"
     },
@@ -3601,7 +3621,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-18",
-      "last_checked": "2026-09-18",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-18",
       "notes": "受理日2026-09-11。IT開発経験必須のためpossible。事業所名は求人票で非公開。"
     },
@@ -3631,7 +3651,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-19",
-      "last_checked": "2026-09-19",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-19",
       "notes": "受理日2026-08-24。IT企業の自社システム利用顧客向けカスタマーサポート。未経験可。"
     },
@@ -3663,7 +3683,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-19",
-      "last_checked": "2026-09-19",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-19",
       "notes": "受理日2026-08-05。契約3カ月・原則更新で、正社員登用・無期転換あり。"
     },
@@ -3693,7 +3713,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-19",
-      "last_checked": "2026-09-19",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-19",
       "notes": "受理日2026-08-12。実務未経験歓迎、言語学習経験があれば応募条件に入る。"
     },
@@ -3720,12 +3740,12 @@
       "deadline": "2026-12-09",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-09-20",
-      "last_checked": "2026-09-20",
-      "last_changed": "2026-09-20",
-      "notes": "IT未経験可。夜勤あり。会社事業としてITサポートのアウトソーシングを明記。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "IT未経験可。夜勤あり。会社事業としてITサポートのアウトソーシングを明記。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "doda-3015895384",
@@ -3903,12 +3923,12 @@
       "deadline": "2026-10-07",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-09-21",
-      "last_checked": "2026-10-07",
-      "last_changed": "2026-09-21",
-      "notes": "二勤二休の交替勤務で夜勤あり。データセンター運用を運用ルール策定から一括受託する事業を求人票に明記。 2026-10-07に締切当日の個票掲載継続を確認。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "二勤二休の交替勤務で夜勤あり。データセンター運用を運用ルール策定から一括受託する事業を求人票に明記。 2026-10-07に締切当日の個票掲載継続を確認。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "doda-3015376724",
@@ -3963,12 +3983,12 @@
       "deadline": "2026-10-14",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-09-21",
-      "last_checked": "2026-09-21",
-      "last_changed": "2026-09-21",
-      "notes": "求人更新日は2026-09-19。自社情シス側のITサポート事務。IT経験・資格不問。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "求人更新日は2026-09-19。自社情シス側のITサポート事務。IT経験・資格不問。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "doda-3013917128",
@@ -4113,12 +4133,12 @@
       "deadline": "2026-12-02",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-09-22",
-      "last_checked": "2026-09-22",
-      "last_changed": "2026-09-22",
-      "notes": "未経験歓迎表記だが社会人経験2年以上＋普通免許が必須。条件を満たす学生に限るためpossible。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "未経験歓迎表記だが社会人経験2年以上＋普通免許が必須。条件を満たす学生に限るためpossible。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "doda-3015776205",
@@ -4143,12 +4163,12 @@
       "deadline": "2026-11-11",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-09-22",
-      "last_checked": "2026-09-22",
-      "last_changed": "2026-09-22",
-      "notes": "仕事内容は情シス入口として有力だがITエンジニア実務経験が必須のためpossible。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "仕事内容は情シス入口として有力だがITエンジニア実務経験が必須のためpossible。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "doda-3015906451",
@@ -4203,12 +4223,12 @@
       "deadline": "2026-10-07",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-09-23",
-      "last_checked": "2026-10-07",
-      "last_changed": "2026-09-23",
-      "notes": "経験・学歴不問。情報システム部でヘルプデスクから保守運用・DXまで段階的に育成する求人。 2026-10-07に締切当日の個票掲載継続を確認。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "経験・学歴不問。情報システム部でヘルプデスクから保守運用・DXまで段階的に育成する求人。 2026-10-07に締切当日の個票掲載継続を確認。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "doda-3015926083",
@@ -4413,12 +4433,12 @@
       "deadline": "2026-10-14",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-09-24",
-      "last_checked": "2026-09-24",
-      "last_changed": "2026-09-24",
-      "notes": "2026-09-24に初観測。大阪で研修・勤務候補あり。未経験入社90％、3カ月研修。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "2026-09-24に初観測。大阪で研修・勤務候補あり。未経験入社90％、3カ月研修。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "doda-3014991432",
@@ -4503,12 +4523,12 @@
       "deadline": "2026-12-16",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-09-24",
-      "last_checked": "2026-09-24",
-      "last_changed": "2026-09-24",
-      "notes": "掲載開始・更新日2026-09-24。実務0年でも学校等で機械製図を学んでいれば応募条件に入るためpossible。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "掲載開始・更新日2026-09-24。実務0年でも学校等で機械製図を学んでいれば応募条件に入るためpossible。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "doda-3015982442",
@@ -4623,12 +4643,12 @@
       "deadline": "2026-11-18",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-09-25",
-      "last_checked": "2026-09-25",
-      "last_changed": "2026-09-25",
-      "notes": "2026-09-25に初観測。専門学校卒可・実務経験不問で、ITパスポート程度の知識を求めるためIT系専門学生に合致。会社概要ではデータセンター運用から顧客の社内システム運用支援までを事業として明記。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "2026-09-25に初観測。専門学校卒可・実務経験不問で、ITパスポート程度の知識を求めるためIT系専門学生に合致。会社概要ではデータセンター運用から顧客の社内システム運用支援までを事業として明記。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "doda-3015799987",
@@ -4653,12 +4673,12 @@
       "deadline": "2026-11-15",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-09-25",
-      "last_checked": "2026-09-25",
-      "last_changed": "2026-09-25",
-      "notes": "2026-09-25に初観測。大卒必須のため母国大学卒業済み学生向け。加えてメール・チャット・チケットを用いた業務経験が必須のため条件確認が必要。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "2026-09-25に初観測。大卒必須のため母国大学卒業済み学生向け。加えてメール・チャット・チケットを用いた業務経験が必須のため条件確認が必要。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "doda-3015590123",
@@ -4683,12 +4703,12 @@
       "deadline": "2026-10-18",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-09-25",
-      "last_checked": "2026-09-25",
-      "last_changed": "2026-09-25",
-      "notes": "2026-09-25に初観測。職種自体はIT未経験可だが社会人経験5年以上が必須のためpossible。通常の新卒予定者には厳しく、年齢・職歴のある学生向け。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "2026-09-25に初観測。職種自体はIT未経験可だが社会人経験5年以上が必須のためpossible。通常の新卒予定者には厳しく、年齢・職歴のある学生向け。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "rikunabi-7c4426571ed544c7",
@@ -4716,7 +4736,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-09-25",
-      "last_checked": "2026-09-25",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-09-25",
       "notes": "掲載開始日2026-09-25。実務未経験可で、学校でのJavaScript開発経験を応募条件として認めるためIT系専門学生に合致。"
     },
@@ -4803,12 +4823,12 @@
       "deadline": "2026-11-29",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-09-28",
-      "last_checked": "2026-09-28",
-      "last_changed": "2026-09-28",
-      "notes": "2026-09-28に初観測。専門学校卒可・未経験可。OJTでCAD/CAMと製造データ作成へ入る求人。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "2026-09-28に初観測。専門学校卒可・未経験可。OJTでCAD/CAMと製造データ作成へ入る求人。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "doda-3015833801",
@@ -4833,12 +4853,12 @@
       "deadline": "2026-10-07",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-09-28",
-      "last_checked": "2026-10-07",
-      "last_changed": "2026-09-28",
-      "notes": "2026-09-28に初観測。学歴不問・IT知識不問。自社Webシステムのテスト・サポートから入れるため有力。 2026-10-07に締切当日の個票掲載継続を確認。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "2026-09-28に初観測。学歴不問・IT知識不問。自社Webシステムのテスト・サポートから入れるため有力。 2026-10-07に締切当日の個票掲載継続を確認。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "doda-3015943559",
@@ -4923,12 +4943,12 @@
       "deadline": "2026-10-25",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-09-28",
-      "last_checked": "2026-09-28",
-      "last_changed": "2026-09-28",
-      "notes": "2026-09-28に初観測。標準的な実務0年学生には経験条件が重いが、情シス運用アウトソーシング企業として追跡価値が高いためpossibleで保持。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "2026-09-28に初観測。標準的な実務0年学生には経験条件が重いが、情シス運用アウトソーシング企業として追跡価値が高いためpossibleで保持。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "doda-3015901924",
@@ -4983,12 +5003,12 @@
       "deadline": "2026-10-07",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-09-29",
-      "last_checked": "2026-10-07",
-      "last_changed": "2026-09-29",
-      "notes": "2026-09-29初観測。大阪本社・大阪府内案件を確認。経験・学歴不問でIT専門学校学習経験も歓迎されるためstrong。 2026-10-07に締切当日の個票掲載継続を確認。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "2026-09-29初観測。大阪本社・大阪府内案件を確認。経験・学歴不問でIT専門学校学習経験も歓迎されるためstrong。 2026-10-07に締切当日の個票掲載継続を確認。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "doda-3016047047",
@@ -5164,12 +5184,12 @@
       "deadline": "2026-10-25",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "last_changed": "2026-10-05",
-      "notes": "2026-10-05にcurrent main（最終観測2026-09-29）との差分として初回登録。2026-10-05時点で求人個票の掲載継続を確認。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "2026-10-05にcurrent main（最終観測2026-09-29）との差分として初回登録。2026-10-05時点で求人個票の掲載継続を確認。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "doda-3014964076",
@@ -5284,12 +5304,12 @@
       "deadline": "2026-10-07",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-10-05",
-      "last_checked": "2026-10-07",
-      "last_changed": "2026-10-05",
-      "notes": "2026-10-05にcurrent main（最終観測2026-09-29）との差分として初回登録。2026-10-05時点で求人個票の掲載継続を確認。 2026-10-07に締切当日の個票掲載継続を確認。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "2026-10-05にcurrent main（最終観測2026-09-29）との差分として初回登録。2026-10-05時点で求人個票の掲載継続を確認。 2026-10-07に締切当日の個票掲載継続を確認。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "doda-3015832186",
@@ -5349,9 +5369,9 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-05",
-      "last_checked": "2026-10-05",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-05",
-      "notes": "2026-10-05にcurrent main（最終観測2026-09-29）との差分として初回登録。2026-10-05時点で求人個票の掲載継続を確認。"
+      "notes": "2026-10-05にcurrent main（最終観測2026-09-29）との差分として初回登録。2026-10-05時点で求人個票の掲載継続を確認。 2026-11-24棚卸し：一時停止中（応募受付なし）"
     },
     {
       "job_id": "doda-3015945457",
@@ -5376,12 +5396,12 @@
       "deadline": "2026-10-07",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-10-05",
-      "last_checked": "2026-10-07",
-      "last_changed": "2026-10-05",
-      "notes": "2026-10-05にcurrent main（最終観測2026-09-29）との差分として初回登録。2026-10-05時点で求人個票の掲載継続を確認。 2026-10-07に締切当日の個票掲載継続を確認。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "2026-10-05にcurrent main（最終観測2026-09-29）との差分として初回登録。2026-10-05時点で求人個票の掲載継続を確認。 2026-10-07に締切当日の個票掲載継続を確認。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "doda-3015437227",
@@ -5406,12 +5426,12 @@
       "deadline": "2026-10-07",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-10-05",
-      "last_checked": "2026-10-07",
-      "last_changed": "2026-10-05",
-      "notes": "2026-10-05にcurrent main（最終観測2026-09-29）との差分として初回登録。2026-10-05時点で求人個票の掲載継続を確認。 2026-10-07に締切当日の個票掲載継続を確認。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "2026-10-05にcurrent main（最終観測2026-09-29）との差分として初回登録。2026-10-05時点で求人個票の掲載継続を確認。 2026-10-07に締切当日の個票掲載継続を確認。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "doda-3015073458",
@@ -5466,12 +5486,12 @@
       "deadline": "2026-10-21",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "last_changed": "2026-10-05",
-      "notes": "2026-10-05にcurrent main（最終観測2026-09-29）との差分として初回登録。2026-10-05時点で求人個票の掲載継続を確認。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "2026-10-05にcurrent main（最終観測2026-09-29）との差分として初回登録。2026-10-05時点で求人個票の掲載継続を確認。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "doda-3015934658",
@@ -5496,12 +5516,12 @@
       "deadline": "2026-12-20",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "last_changed": "2026-10-05",
-      "notes": "2026-10-05にcurrent main（最終観測2026-09-29）との差分として初回登録。2026-10-05時点で求人個票の掲載継続を確認。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "2026-10-05にcurrent main（最終観測2026-09-29）との差分として初回登録。2026-10-05時点で求人個票の掲載継続を確認。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "hellowork-27020-61342261",
@@ -5529,7 +5549,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-05",
-      "last_checked": "2026-10-05",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-05",
       "notes": "2026-10-05にcurrent main（最終観測2026-09-29）との差分として初回登録。2026-10-05時点で求人個票の掲載継続を確認。"
     },
@@ -5562,7 +5582,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-05",
-      "last_checked": "2026-10-05",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-05",
       "notes": "2026-10-05にcurrent main（最終観測2026-09-29）との差分として初回登録。2026-10-05時点で求人個票の掲載継続を確認。"
     },
@@ -5985,9 +6005,9 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-06",
-      "last_checked": "2026-10-06",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-06",
-      "notes": "2026-10-06初観測。個票は公開中。N2相当・未経験可・ビザ更新サポート記載あり。"
+      "notes": "2026-10-06初観測。個票は公開中。N2相当・未経験可・ビザ更新サポート記載あり。 2026-11-24棚卸し：一時停止中（応募受付なし）"
     },
     {
       "job_id": "yolo-129cf14e-34c9-4bd9-bfb7-9616ee746088",
@@ -6015,9 +6035,9 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-06",
-      "last_checked": "2026-10-06",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-06",
-      "notes": "2026-10-06初観測。個票は公開中。N3相当・未経験可のWebデザイン系求人。"
+      "notes": "2026-10-06初観測。個票は公開中。N3相当・未経験可のWebデザイン系求人。 2026-11-24棚卸し：一時停止中（応募受付なし）"
     },
     {
       "job_id": "hellowork-29010-18593861",
@@ -6045,7 +6065,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-07",
-      "last_checked": "2026-10-07",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-07",
       "notes": "受理日2026-10-05。IT知識不要・経験不問で、システム操作問い合わせやデータメンテナンスを含むためIT系専門学生に接続しやすい。"
     },
@@ -6075,7 +6095,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-07",
-      "last_checked": "2026-10-07",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-07",
       "notes": "受理日2026-10-05。デザイン系学生には親和性が高いがAdobe系ツール経験条件があるためpossible。"
     },
@@ -6105,7 +6125,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-07",
-      "last_checked": "2026-10-07",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-07",
       "notes": "受理日2026-10-05。CAD・デザイン系と接続する未経験枠だが普通免許必須のためpossible。"
     },
@@ -6135,7 +6155,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-07",
-      "last_checked": "2026-10-07",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-07",
       "notes": "受理日2026-10-05。経験必須ではなく、通信インフラ運用の周辺業務として情シス・インフラ志向学生に接続しやすい。"
     },
@@ -6165,7 +6185,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-07",
-      "last_checked": "2026-10-07",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-07",
       "notes": "受理日2026-10-05。未経験可だが普通免許必須、高所作業・緊急対応の可能性があるためpossible。"
     },
@@ -6195,7 +6215,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-07",
-      "last_checked": "2026-10-07",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-07",
       "notes": "受理日2026-10-05。C#経験必須のためpossible。"
     },
@@ -6225,7 +6245,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-07",
-      "last_checked": "2026-10-07",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-07",
       "notes": "受理日2026-10-05。Python経験必須のためpossible。"
     },
@@ -6258,7 +6278,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-07",
-      "last_checked": "2026-10-07",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-07",
       "notes": "受理日2026-10-05。契約社員だが原則更新・更新上限なし・正社員登用あり。C/C++開発経験必須のためpossible。"
     },
@@ -6288,7 +6308,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-07",
-      "last_checked": "2026-10-07",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-07",
       "notes": "求人受付日2026-10-01、2026-10-07初観測。過去日は遡及補完しない。何らかの開発経験が必須のためpossible。"
     },
@@ -6319,7 +6339,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-08",
-      "last_checked": "2026-10-09",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-08"
     },
     {
@@ -6349,7 +6369,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-08",
-      "last_checked": "2026-10-09",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-08"
     },
     {
@@ -6379,7 +6399,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-08",
-      "last_checked": "2026-10-08",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-08"
     },
     {
@@ -6405,12 +6425,12 @@
       "deadline": "2026-11-08",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "notes": "2026-10-08初観測。doda掲載予定2026-08-17～2026-11-08。",
-      "status": "active",
-      "change_type": "unchanged",
+      "notes": "2026-10-08初観測。doda掲載予定2026-08-17～2026-11-08。 2026-11-24 棚卸し：HTTP 410 Gone",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-10-08",
-      "last_checked": "2026-10-08",
-      "last_changed": "2026-10-08"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24"
     },
     {
       "job_id": "hellowork-27060-28631761",
@@ -6439,7 +6459,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-08",
-      "last_checked": "2026-10-09",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-08"
     },
     {
@@ -6469,7 +6489,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-08",
-      "last_checked": "2026-10-08",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-08"
     },
     {
@@ -6499,7 +6519,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-08",
-      "last_checked": "2026-10-09",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-08"
     },
     {
@@ -6531,7 +6551,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-09",
-      "last_checked": "2026-10-09",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-09",
       "notes": "本日初観測。公開日は必ずしも本日ではない。ハローワークRIC求人番号：27030-30398561"
     },
@@ -6564,7 +6584,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-09",
-      "last_checked": "2026-10-09",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-09",
       "notes": "本日初観測。公開日は必ずしも本日ではない。ハローワークRIC求人番号：27020-60965961"
     },
@@ -6597,7 +6617,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-09",
-      "last_checked": "2026-10-09",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-09",
       "notes": "本日初観測。公開日は必ずしも本日ではない。ハローワークRIC求人番号：27030-30429761"
     },
@@ -6630,7 +6650,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-09",
-      "last_checked": "2026-10-09",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-09",
       "notes": "本日初観測。公開日は必ずしも本日ではない。ハローワークRIC求人番号：27100-10733461"
     },
@@ -6663,7 +6683,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-09",
-      "last_checked": "2026-10-09",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-09",
       "notes": "本日初観測。公開日は必ずしも本日ではない。ハローワークRIC求人番号：27040-22956361"
     },
@@ -6696,7 +6716,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-09",
-      "last_checked": "2026-10-09",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-09",
       "notes": "本日初観測。公開日は必ずしも本日ではない。ハローワークRIC求人番号：27070-19318561"
     },
@@ -6729,7 +6749,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-09",
-      "last_checked": "2026-10-09",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-09",
       "notes": "本日初観測。公開日は必ずしも本日ではない。ハローワークRIC求人番号：28020-15913361"
     },
@@ -6759,12 +6779,12 @@
       "deadline": "2026-12-31",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
+      "status": "closed",
       "change_type": "unchanged",
       "first_seen": "2026-10-09",
-      "last_checked": "2026-10-09",
-      "last_changed": "2026-10-09",
-      "notes": "本日初観測。公開日は必ずしも本日ではない。ハローワークRIC求人番号：26020-20417861"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "本日初観測。公開日は必ずしも本日ではない。ハローワークRIC求人番号：26020-20417861 / 2026-11-24棚卸し補正：自宅回線（Mac Studio）から個票を実取得し「掲載終了／掲載期間が終了」の表示を確認"
     },
     {
       "job_id": "hellowork-27010-36374261",
@@ -6792,12 +6812,12 @@
       "deadline": "2026-12-31",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
+      "status": "closed",
       "change_type": "unchanged",
       "first_seen": "2026-10-09",
-      "last_checked": "2026-10-09",
-      "last_changed": "2026-10-09",
-      "notes": "本日初観測。公開日は必ずしも本日ではない。ハローワークRIC求人番号：27010-36374261"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "本日初観測。公開日は必ずしも本日ではない。ハローワークRIC求人番号：27010-36374261 / 2026-11-24棚卸し補正：自宅回線（Mac Studio）から個票を実取得し「掲載終了／掲載期間が終了」の表示を確認"
     },
     {
       "job_id": "hellowork-27020-61940261",
@@ -6828,7 +6848,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-09",
-      "last_checked": "2026-10-09",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-09",
       "notes": "本日初観測。公開日は必ずしも本日ではない。ハローワークRIC求人番号：27020-61940261"
     },
@@ -6849,7 +6869,7 @@
       "employment_type": "正社員",
       "judgement": "strong",
       "first_seen": "2026-10-10",
-      "last_checked": "2026-10-10",
+      "last_checked": "2026-11-24",
       "change_type": "unchanged",
       "status": "active",
       "description": "データ入力・集計の自動化、システム連携。eラーニング・Udemy・ペアコーディングあり。実務経験不問、情報系専門学校での受講歴を優遇。",
@@ -6882,13 +6902,13 @@
       "employment_type": "正社員",
       "judgement": "strong",
       "first_seen": "2026-10-10",
-      "last_checked": "2026-10-10",
+      "last_checked": "2026-11-24",
       "change_type": "unchanged",
-      "status": "active",
+      "status": "closed",
       "description": "仮想化基盤の構築・改善・運用保守。技術支援体制あり。経験不問、35歳以下。全支社への転勤可能性。",
       "prefecture": "大阪府",
       "region_priority": "osaka",
-      "last_changed": "2026-10-10",
+      "last_changed": "2026-11-24",
       "experience_requirement": "記載なし",
       "contract_term": "記載なし",
       "renewal": "記載なし",
@@ -6896,7 +6916,7 @@
       "conversion_record": "記載なし",
       "application_method": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "notes": "記載なし"
+      "notes": "記載なし / 2026-11-24棚卸し補正：自宅回線（Mac Studio）から個票を実取得し「掲載終了／掲載期間が終了」の表示を確認"
     },
     {
       "job_id": "hellowork-27010-41155961",
@@ -6915,7 +6935,7 @@
       "employment_type": "正社員",
       "judgement": "strong",
       "first_seen": "2026-10-10",
-      "last_checked": "2026-10-10",
+      "last_checked": "2026-11-24",
       "change_type": "unchanged",
       "status": "active",
       "description": "パッケージ、3DCG、映像、イラスト制作。実務経験不問。Illustrator・Photoshop操作、40歳以下。",
@@ -6948,7 +6968,7 @@
       "employment_type": "正社員",
       "judgement": "strong",
       "first_seen": "2026-10-10",
-      "last_checked": "2026-10-10",
+      "last_checked": "2026-11-24",
       "change_type": "unchanged",
       "status": "active",
       "description": "ゼネコン向けルート営業、工事見積・現場進捗、官公庁入札。経験・資格不問。新卒は職務経歴書不要。",
@@ -6981,7 +7001,7 @@
       "employment_type": "正社員",
       "judgement": "strong",
       "first_seen": "2026-10-10",
-      "last_checked": "2026-10-10",
+      "last_checked": "2026-11-24",
       "change_type": "unchanged",
       "status": "active",
       "description": "容器の既存顧客引継ぎと新規提案。営業・成形経験は尚可、必須ではない。",
@@ -7014,7 +7034,7 @@
       "employment_type": "正社員",
       "judgement": "possible",
       "first_seen": "2026-10-10",
-      "last_checked": "2026-10-10",
+      "last_checked": "2026-11-24",
       "change_type": "unchanged",
       "status": "active",
       "description": "輸入部品のPC検索、入力、販売・配達。実務経験不問、Excel初歩、普通免許（AT可）必須。",
@@ -7047,7 +7067,7 @@
       "employment_type": "正社員",
       "judgement": "possible",
       "first_seen": "2026-10-10",
-      "last_checked": "2026-10-10",
+      "last_checked": "2026-11-24",
       "change_type": "unchanged",
       "status": "active",
       "description": "SQLによるデータ抽出・運用。IT業界経験3カ月以上必須（職業訓練のみ不可）。",
@@ -7080,7 +7100,7 @@
       "employment_type": "正社員",
       "judgement": "possible",
       "first_seen": "2026-10-10",
-      "last_checked": "2026-10-10",
+      "last_checked": "2026-11-24",
       "change_type": "unchanged",
       "status": "active",
       "description": "設計・構築・運用保守。関連実務経験1年以上必須。",
@@ -7113,7 +7133,7 @@
       "employment_type": "正社員",
       "judgement": "possible",
       "first_seen": "2026-10-10",
-      "last_checked": "2026-10-10",
+      "last_checked": "2026-11-24",
       "change_type": "unchanged",
       "status": "active",
       "description": "設計・図面・現場調査。実務経験3年以上、CADやAdobe系ツール使用経験が必要。",
@@ -7146,13 +7166,13 @@
       "employment_type": "正社員",
       "judgement": "possible",
       "first_seen": "2026-10-10",
-      "last_checked": "2026-10-10",
+      "last_checked": "2026-11-24",
       "change_type": "unchanged",
-      "status": "active",
+      "status": "closed",
       "description": "デザイン指導、社内制作、利用者の就職支援。Adobe系基本操作と業務経験必須だが副業・アルバイト経験も可。",
       "prefecture": "大阪府",
       "region_priority": "osaka",
-      "last_changed": "2026-10-10",
+      "last_changed": "2026-11-24",
       "experience_requirement": "記載なし",
       "contract_term": "記載なし",
       "renewal": "記載なし",
@@ -7160,7 +7180,7 @@
       "conversion_record": "記載なし",
       "application_method": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "notes": "記載なし"
+      "notes": "記載なし / 2026-11-24棚卸し補正：自宅回線（Mac Studio）から個票を実取得し「掲載終了／掲載期間が終了」の表示を確認"
     },
     {
       "job_id": "hellowork-27030-30721061",
@@ -7179,7 +7199,7 @@
       "employment_type": "正社員",
       "judgement": "possible",
       "first_seen": "2026-10-10",
-      "last_checked": "2026-10-10",
+      "last_checked": "2026-11-24",
       "change_type": "unchanged",
       "status": "active",
       "description": "福祉用具の販売・レンタル、住宅改修提案。未経験可、3カ月教育。普通免許（AT可）必須。",
@@ -7212,7 +7232,7 @@
       "employment_type": "正社員",
       "judgement": "home_country_bachelor",
       "first_seen": "2026-10-10",
-      "last_checked": "2026-10-10",
+      "last_checked": "2026-11-24",
       "change_type": "unchanged",
       "status": "active",
       "description": "未経験可、入社後指導あり。大学卒必須、普通免許（AT可）必須。母国大学卒業者向け。",
@@ -7245,7 +7265,7 @@
       "employment_type": "正社員",
       "judgement": "possible",
       "first_seen": "2026-10-10",
-      "last_checked": "2026-10-10",
+      "last_checked": "2026-11-24",
       "change_type": "unchanged",
       "status": "active",
       "description": "複合機・PC・ルーターの設置・保守。未経験可、メーカー研修。PC基本操作・普通免許（AT可）必須。",
@@ -7278,7 +7298,7 @@
       "employment_type": "正社員",
       "judgement": "possible",
       "first_seen": "2026-10-10",
-      "last_checked": "2026-10-10",
+      "last_checked": "2026-11-24",
       "change_type": "unchanged",
       "status": "active",
       "description": "エレベーター等の点検・故障対応。昇降機メンテナンス経験必須。全国転勤の可能性。",
@@ -7311,7 +7331,7 @@
       "employment_type": "正社員",
       "judgement": "possible",
       "first_seen": "2026-10-10",
-      "last_checked": "2026-10-10",
+      "last_checked": "2026-11-24",
       "change_type": "unchanged",
       "status": "active",
       "description": "未経験歓迎。補助業務から始め、教育訓練校で資格取得を目指す。基礎的な読み書き・計算試験あり。",
@@ -7344,7 +7364,7 @@
       "employment_type": "正社員",
       "judgement": "possible",
       "first_seen": "2026-10-10",
-      "last_checked": "2026-10-10",
+      "last_checked": "2026-11-24",
       "change_type": "unchanged",
       "status": "active",
       "description": "検査装置の全国訪問保守・点検。マニュアルあり。経験は尚可、PC操作と普通免許（AT可）必須。",
@@ -7389,7 +7409,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-11",
-      "last_checked": "2026-10-11",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-11",
       "notes": "事務PCリテラシー。"
     },
@@ -7422,7 +7442,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-11",
-      "last_checked": "2026-10-11",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-11",
       "notes": "普通免許はあれば尚可。"
     },
@@ -7455,7 +7475,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-11",
-      "last_checked": "2026-10-11",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-11",
       "notes": "未経験応募可能。"
     },
@@ -7488,7 +7508,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-11",
-      "last_checked": "2026-10-11",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-11",
       "notes": "製造現場・ものづくり志望向け。"
     },
@@ -7521,7 +7541,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-11",
-      "last_checked": "2026-10-11",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-11",
       "notes": "プログラミング学習経験を示せる学生向け。"
     },
@@ -7554,7 +7574,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-11",
-      "last_checked": "2026-10-11",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-11",
       "notes": "未経験時の試用・研修3～6か月は時給1,235円との記載。条件要確認。"
     },
@@ -7587,7 +7607,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-11",
-      "last_checked": "2026-10-11",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-11",
       "notes": "勤務地案内に大阪と東京の駅名の不整合があるため確認。"
     },
@@ -7620,7 +7640,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-11",
-      "last_checked": "2026-10-11",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-11",
       "notes": "試用3か月は時給1,231円との記載。"
     },
@@ -7653,7 +7673,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-11",
-      "last_checked": "2026-10-11",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-11",
       "notes": "簿記2級取得意思が条件。"
     },
@@ -7686,7 +7706,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-11",
-      "last_checked": "2026-10-11",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-11",
       "notes": "日商簿記2級必須。"
     },
@@ -7719,7 +7739,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-11",
-      "last_checked": "2026-10-11",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-11",
       "notes": "普通免許AT限定可必須。"
     },
@@ -7752,7 +7772,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-11",
-      "last_checked": "2026-10-11",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-11",
       "notes": "普通免許AT限定可必須。"
     },
@@ -7785,7 +7805,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-11",
-      "last_checked": "2026-10-11",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-11",
       "notes": "普通免許AT限定可必須。"
     },
@@ -7818,7 +7838,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-11",
-      "last_checked": "2026-10-11",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-11",
       "notes": "普通免許AT限定可必須。"
     },
@@ -7851,7 +7871,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-11",
-      "last_checked": "2026-10-11",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-11",
       "notes": "業務系C/C++開発経験必須。"
     },
@@ -7884,7 +7904,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-11",
-      "last_checked": "2026-10-11",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-11",
       "notes": "実務経験3年以上必須。"
     },
@@ -7917,7 +7937,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-11",
-      "last_checked": "2026-10-11",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-11",
       "notes": "デザイン実務経験・ポートフォリオ必須。"
     },
@@ -7950,7 +7970,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-11",
-      "last_checked": "2026-10-11",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-11",
       "notes": "2026-10-10既登録の同社保守職とは別の求人番号・職種。"
     },
@@ -7983,7 +8003,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-11",
-      "last_checked": "2026-10-11",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-11",
       "notes": "試用2か月は時給1,300～1,500円。"
     },
@@ -8016,7 +8036,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-11",
-      "last_checked": "2026-10-11",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-11",
       "notes": "普通免許AT限定可必須。固定残業代要確認。"
     },
@@ -8049,7 +8069,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-11",
-      "last_checked": "2026-10-11",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-11",
       "notes": "普通免許AT限定可必須。在留資格は記載なし。技能実習生在籍と留学生の就職可否は別。"
     },
@@ -8082,7 +8102,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-11",
-      "last_checked": "2026-10-11",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-11",
       "notes": "普通免許AT限定可必須。"
     },
@@ -8115,7 +8135,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-12",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-12",
       "notes": "求人番号27020-61930361。IT系専門学校受講者優遇。 2026-10-12初観測。求人票・同一求人番号の詳細転載情報を確認。"
     },
@@ -8148,7 +8168,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-12",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-12",
       "notes": "図面を読むためCAD・BIM／施工管理分野の学生に接続しやすい。 2026-10-12初観測。求人票・同一求人番号の詳細転載情報を確認。"
     },
@@ -8181,7 +8201,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-12",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-12",
       "notes": "IT企業の採用・教育職。 2026-10-12初観測。求人票・同一求人番号の詳細転載情報を確認。"
     },
@@ -8214,7 +8234,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-12",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-12",
       "notes": "研修終了後は土日祝を含むシフト勤務の可能性あり。6か月試用。 2026-10-12初観測。求人票・同一求人番号の詳細転載情報を確認。"
     },
@@ -8247,7 +8267,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-12",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-12",
       "notes": "試用期間中の賃金差に注意。客先案件による勤務時間変動・シフトの可能性。 2026-10-12初観測。求人票・同一求人番号の詳細転載情報を確認。"
     },
@@ -8280,7 +8300,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-12",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-12",
       "notes": "プロンプト設計・API利用経験のある学生に適合。 2026-10-12初観測。求人票・同一求人番号の詳細転載情報を確認。"
     },
@@ -8313,7 +8333,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-12",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-12",
       "notes": "普通免許保有者向け。 2026-10-12初観測。求人票・同一求人番号の詳細転載情報を確認。"
     },
@@ -8346,7 +8366,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-12",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-12",
       "notes": "試用時給が月給表示と異なる点は学生へ必ず明示すること。 2026-10-12初観測。求人票・同一求人番号の詳細転載情報を確認。"
     },
@@ -8379,7 +8399,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-12",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-12",
       "notes": "母国大卒・インドネシア語が使える学生候補向け。 2026-10-12初観測。求人票・同一求人番号の詳細転載情報を確認。"
     },
@@ -8412,7 +8432,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-12",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-12",
       "notes": "経験要件は不問だが開発分野への興味・授業制作物の提示が望ましい。 2026-10-12初観測。求人票・同一求人番号の詳細転載情報を確認。"
     },
@@ -8445,7 +8465,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-12",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-12",
       "notes": "製品知識は入社後研修。 2026-10-12初観測。求人票・同一求人番号の詳細転載情報を確認。"
     },
@@ -8478,7 +8498,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-12",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-12",
       "notes": "年間休日80日、日給制の月給換算表示。就業条件を優先確認。 2026-10-12初観測。求人票・同一求人番号の詳細転載情報を確認。"
     },
@@ -8513,7 +8533,7 @@
       "last_changed": "2026-10-13",
       "status": "active",
       "first_seen": "2026-10-13",
-      "last_checked": "2026-10-13"
+      "last_checked": "2026-11-24"
     },
     {
       "job_id": "hellowork-27060-27689861",
@@ -8546,7 +8566,7 @@
       "last_changed": "2026-10-13",
       "status": "active",
       "first_seen": "2026-10-13",
-      "last_checked": "2026-10-13"
+      "last_checked": "2026-11-24"
     },
     {
       "job_id": "hellowork-27020-60135661",
@@ -8579,7 +8599,7 @@
       "last_changed": "2026-10-13",
       "status": "active",
       "first_seen": "2026-10-13",
-      "last_checked": "2026-10-13"
+      "last_checked": "2026-11-24"
     },
     {
       "job_id": "hellowork-13030-14149461",
@@ -8612,7 +8632,7 @@
       "last_changed": "2026-10-13",
       "status": "active",
       "first_seen": "2026-10-13",
-      "last_checked": "2026-10-13"
+      "last_checked": "2026-11-24"
     },
     {
       "job_id": "hellowork-37010-25969261",
@@ -8645,7 +8665,7 @@
       "last_changed": "2026-10-13",
       "status": "active",
       "first_seen": "2026-10-13",
-      "last_checked": "2026-10-13"
+      "last_checked": "2026-11-24"
     },
     {
       "job_id": "hellowork-27010-42571161",
@@ -8678,7 +8698,7 @@
       "last_changed": "2026-10-13",
       "status": "active",
       "first_seen": "2026-10-13",
-      "last_checked": "2026-10-13"
+      "last_checked": "2026-11-24"
     },
     {
       "job_id": "hellowork-27020-63053061",
@@ -8711,7 +8731,7 @@
       "last_changed": "2026-10-13",
       "status": "active",
       "first_seen": "2026-10-13",
-      "last_checked": "2026-10-13"
+      "last_checked": "2026-11-24"
     },
     {
       "job_id": "hellowork-28020-16353061",
@@ -8744,7 +8764,7 @@
       "last_changed": "2026-10-13",
       "status": "active",
       "first_seen": "2026-10-13",
-      "last_checked": "2026-10-13"
+      "last_checked": "2026-11-24"
     },
     {
       "job_id": "hellowork-28070-05856061",
@@ -8768,16 +8788,16 @@
       "application_method": "ハローワーク経由",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "notes": "2026-10-13初観測。",
+      "notes": "2026-10-13初観測。 2026-11-24 棚卸し：HTTP 410 Gone",
       "contract_term": "記載なし",
       "renewal": "記載なし",
       "conversion_to_regular": "記載なし",
       "conversion_record": "記載なし",
-      "change_type": "unchanged",
-      "last_changed": "2026-10-13",
-      "status": "active",
+      "change_type": "closed",
+      "last_changed": "2026-11-24",
+      "status": "closed",
       "first_seen": "2026-10-13",
-      "last_checked": "2026-10-13"
+      "last_checked": "2026-11-24"
     },
     {
       "job_id": "hellowork-27020-60237861",
@@ -8808,7 +8828,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-14",
-      "last_checked": "2026-10-14",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-14",
       "notes": "試用3カ月・同条件。"
     },
@@ -8841,7 +8861,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-14",
-      "last_checked": "2026-10-14",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-14",
       "notes": "試用3～6カ月、通勤手当の上限が通常と異なる。顧客先作業の可能性。"
     },
@@ -8874,7 +8894,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-14",
-      "last_checked": "2026-10-14",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-14",
       "notes": "固定残業代20時間分を含む。"
     },
@@ -8907,7 +8927,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-14",
-      "last_checked": "2026-10-14",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-14",
       "notes": "在宅勤務希望時は自己所有Macと自宅回線が必要。求人票の雇用保険記載は要確認。"
     },
@@ -8940,7 +8960,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-14",
-      "last_checked": "2026-10-14",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-14",
       "notes": "固定残業45時間分を含む。月平均残業30時間の記載。"
     },
@@ -8973,7 +8993,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-14",
-      "last_checked": "2026-10-14",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-14",
       "notes": "試用3～6カ月・同条件。"
     },
@@ -9006,7 +9026,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-14",
-      "last_checked": "2026-10-14",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-14",
       "notes": "試用3～6カ月は時給1,235円、交通費上限月2万円。"
     },
@@ -9039,7 +9059,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-14",
-      "last_checked": "2026-10-14",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-14",
       "notes": "期間の定めあり。更新条件・上限は記載確認できず。評価による正社員転換の可能性あり。"
     },
@@ -9072,7 +9092,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-14",
-      "last_checked": "2026-10-14",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-14",
       "notes": "試用6カ月・同条件。合意の上で滋賀・京都転勤の可能性。"
     },
@@ -9105,7 +9125,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-14",
-      "last_checked": "2026-10-14",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-14",
       "notes": "試用2カ月・同条件。"
     },
@@ -9138,7 +9158,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-14",
-      "last_checked": "2026-10-14",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-14",
       "notes": "試用2カ月・同条件。年間休日105日。"
     },
@@ -9171,7 +9191,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-15",
-      "last_checked": "2026-10-15",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-15",
       "notes": "IT開発実務経験が求人上必須。"
     },
@@ -9204,7 +9224,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-15",
-      "last_checked": "2026-10-15",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-15",
       "notes": "学生の授業・制作におけるSQL使用経験が該当するか要確認。"
     },
@@ -9237,7 +9257,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-15",
-      "last_checked": "2026-10-15",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-15",
       "notes": "深夜労働があり18歳以上。休日夜間作業が月2回程度、携帯待機あり。"
     },
@@ -9270,7 +9290,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-15",
-      "last_checked": "2026-10-15",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-15",
       "notes": "インフラ業界経験必須のためN2新卒は条件確認。"
     },
@@ -9303,7 +9323,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-15",
-      "last_checked": "2026-10-15",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-15",
       "notes": "母国大学卒業済み学生向け。国内外の出張あり。"
     },
@@ -9336,7 +9356,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-15",
-      "last_checked": "2026-10-15",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-15",
       "notes": "初級とあるがIT業界経験必須。契約更新と残業手当を確認。"
     },
@@ -9369,7 +9389,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-15",
-      "last_checked": "2026-10-15",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-15",
       "notes": "年間休日105日。"
     },
@@ -9402,7 +9422,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-15",
-      "last_checked": "2026-10-15",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-15",
       "notes": "年間休日120日、残業なし。月給が比較的低い点を明示。"
     },
@@ -9435,7 +9455,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-15",
-      "last_checked": "2026-10-15",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-15",
       "notes": "年間休日125日、16:30終業。工業系業務でIT・デザイン直結ではない。"
     },
@@ -9468,7 +9488,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-15",
-      "last_checked": "2026-10-15",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-15",
       "notes": "初期は契約社員。無期・正社員化は条件付き。"
     },
@@ -9501,7 +9521,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-15",
-      "last_checked": "2026-10-15",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-15",
       "notes": "年間休日118日。建築施工系進路との接点もある。"
     },
@@ -9534,7 +9554,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-15",
-      "last_checked": "2026-10-15",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-15",
       "notes": "正社員化の有無は明記なし。"
     },
@@ -9567,7 +9587,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-15",
-      "last_checked": "2026-10-15",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-15",
       "notes": "経験者優遇の詳細と学歴は個票で再確認が必要。"
     },
@@ -9600,7 +9620,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-15",
-      "last_checked": "2026-10-15",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-15",
       "notes": "完全週休2日。個票にはアクセス制限があり条件を転載情報で確認。"
     },
@@ -9630,12 +9650,12 @@
       "deadline": "2026-12-31",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "外国人採用実績あり",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-10-16",
-      "last_checked": "2026-10-16",
-      "last_changed": "2026-10-16",
-      "notes": "2026-10-16初観測。求人受理日・掲載開始日ではない。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "2026-10-16初観測。求人受理日・掲載開始日ではない。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "hellowork-27070-19972561",
@@ -9666,7 +9686,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-16",
-      "last_checked": "2026-10-16",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-16",
       "notes": "2026-10-16初観測。求人受理日・掲載開始日ではない。"
     },
@@ -9699,7 +9719,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-16",
-      "last_checked": "2026-10-16",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-16",
       "notes": "2026-10-16初観測。求人受理日・掲載開始日ではない。"
     },
@@ -9732,7 +9752,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-16",
-      "last_checked": "2026-10-16",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-16",
       "notes": "2026-10-16初観測。求人受理日・掲載開始日ではない。"
     },
@@ -9765,7 +9785,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-16",
-      "last_checked": "2026-10-16",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-16",
       "notes": "2026-10-16初観測。求人受理日・掲載開始日ではない。"
     },
@@ -9798,7 +9818,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-16",
-      "last_checked": "2026-10-16",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-16",
       "notes": "2026-10-16初観測。求人受理日・掲載開始日ではない。"
     },
@@ -9831,7 +9851,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-16",
-      "last_checked": "2026-10-16",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-16",
       "notes": "2026-10-16初観測。求人受理日・掲載開始日ではない。"
     },
@@ -9864,7 +9884,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-16",
-      "last_checked": "2026-10-16",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-16",
       "notes": "2026-10-16初観測。求人受理日・掲載開始日ではない。"
     },
@@ -9897,7 +9917,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-16",
-      "last_checked": "2026-10-16",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-16",
       "notes": "2026-10-16初観測。求人受理日・掲載開始日ではない。"
     },
@@ -9927,12 +9947,12 @@
       "deadline": "2026-12-31",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-10-16",
-      "last_checked": "2026-10-16",
-      "last_changed": "2026-10-16",
-      "notes": "2026-10-16初観測。求人受理日・掲載開始日ではない。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "2026-10-16初観測。求人受理日・掲載開始日ではない。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "hellowork-01010-37752361",
@@ -9960,12 +9980,12 @@
       "deadline": "2026-12-31",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-10-16",
-      "last_checked": "2026-10-16",
-      "last_changed": "2026-10-16",
-      "notes": "2026-10-16初観測。求人受理日・掲載開始日ではない。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "2026-10-16初観測。求人受理日・掲載開始日ではない。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "hellowork-13010-11461862",
@@ -9996,7 +10016,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-16",
-      "last_checked": "2026-10-16",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-16",
       "notes": "2026-10-16初観測。求人受理日・掲載開始日ではない。"
     },
@@ -10029,7 +10049,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-17",
-      "last_checked": "2026-10-17",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-17",
       "notes": "10月17日に初観測。掲載開始日と異なる。当初は契約社員、正社員登用前提。試用6カ月。"
     },
@@ -10059,12 +10079,12 @@
       "deadline": "2026-12-31",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-10-17",
-      "last_checked": "2026-10-17",
-      "last_changed": "2026-10-17",
-      "notes": "10月17日に初観測。掲載開始日と異なる。年休128日。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "10月17日に初観測。掲載開始日と異なる。年休128日。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "hellowork-27060-30484061",
@@ -10095,7 +10115,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-17",
-      "last_checked": "2026-10-17",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-17",
       "notes": "10月17日に初観測。掲載開始日と異なる。試用2カ月同条件。"
     },
@@ -10128,7 +10148,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-17",
-      "last_checked": "2026-10-17",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-17",
       "notes": "10月17日に初観測。掲載開始日と異なる。試用3～6カ月は条件が異なるので確認。"
     },
@@ -10161,7 +10181,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-17",
-      "last_checked": "2026-10-17",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-17",
       "notes": "10月17日に初観測。掲載開始日と異なる。普通免許必須。"
     },
@@ -10194,7 +10214,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-17",
-      "last_checked": "2026-10-17",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-17",
       "notes": "10月17日に初観測。掲載開始日と異なる。SQL使用経験必須。"
     },
@@ -10227,7 +10247,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-17",
-      "last_checked": "2026-10-17",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-17",
       "notes": "10月17日に初観測。掲載開始日と異なる。固定残業20時間分含む。"
     },
@@ -10260,7 +10280,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-17",
-      "last_checked": "2026-10-17",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-17",
       "notes": "10月17日に初観測。掲載開始日と異なる。年休121日。"
     },
@@ -10293,7 +10313,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-17",
-      "last_checked": "2026-10-17",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-17",
       "notes": "10月17日に初観測。掲載開始日と異なる。普通免許必須。"
     },
@@ -10326,7 +10346,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-18",
-      "last_checked": "2026-10-19",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-18",
       "notes": "2026-10-18初観測（求人受理日・掲載開始日とは異なる）。試用3か月同条件。年休124日。"
     },
@@ -10359,7 +10379,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-18",
-      "last_checked": "2026-10-18",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-18",
       "notes": "2026-10-18初観測（求人受理日・掲載開始日とは異なる）。未経験者は約半年東京勤務、最初2か月は日当9,300円、後に試用4か月。固定残業22～45時間、年休115日。"
     },
@@ -10392,7 +10412,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-18",
-      "last_checked": "2026-10-19",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-18",
       "notes": "2026-10-18初観測（求人受理日・掲載開始日とは異なる）。請負先FM802内の仕事だが正社員雇用はシードアシスト。年休123日。"
     },
@@ -10425,7 +10445,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-18",
-      "last_checked": "2026-10-18",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-18",
       "notes": "2026-10-18初観測（求人受理日・掲載開始日とは異なる）。2か月東京OJT研修、滞在会社負担。固定残業20時間。"
     },
@@ -10458,7 +10478,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-18",
-      "last_checked": "2026-10-18",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-18",
       "notes": "2026-10-18初観測（求人受理日・掲載開始日とは異なる）。年休125日。"
     },
@@ -10491,7 +10511,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-18",
-      "last_checked": "2026-10-18",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-18",
       "notes": "2026-10-18初観測（求人受理日・掲載開始日とは異なる）。固定残業17時間分。"
     },
@@ -10524,7 +10544,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-18",
-      "last_checked": "2026-10-18",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-18",
       "notes": "2026-10-18初観測（求人受理日・掲載開始日とは異なる）。「アシスタント」でも実務経験要件あり。"
     },
@@ -10557,7 +10577,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-18",
-      "last_checked": "2026-10-18",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-18",
       "notes": "2026-10-18初観測（求人受理日・掲載開始日とは異なる）。固定残業20時間分。"
     },
@@ -10590,7 +10610,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-18",
-      "last_checked": "2026-10-18",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-18",
       "notes": "2026-10-18初観測（求人受理日・掲載開始日とは異なる）。契約期間・更新・登用の詳細は転載個票で特定できず。"
     },
@@ -10623,7 +10643,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-18",
-      "last_checked": "2026-10-18",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-18",
       "notes": "2026-10-18初観測（求人受理日・掲載開始日とは異なる）。固定残業20時間分。契約更新と登用の詳細は記載なし。"
     },
@@ -10656,7 +10676,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-18",
-      "last_checked": "2026-10-18",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-18",
       "notes": "2026-10-18初観測（求人受理日・掲載開始日とは異なる）。求人票の経験欄と本文が不一致。契約更新・登用の詳細は記載なし。"
     },
@@ -10689,7 +10709,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-18",
-      "last_checked": "2026-10-18",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-18",
       "notes": "2026-10-18初観測（求人受理日・掲載開始日とは異なる）。固定残業20時間分。"
     },
@@ -10722,7 +10742,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-18",
-      "last_checked": "2026-10-18",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-18",
       "notes": "2026-10-18初観測（求人受理日・掲載開始日とは異なる）。筆記試験にAI・ネット利用不可。母国大学卒業者向け。"
     },
@@ -10755,7 +10775,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-18",
-      "last_checked": "2026-10-18",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-18",
       "notes": "2026-10-18初観測（求人受理日・掲載開始日とは異なる）。固定残業21時間分。"
     },
@@ -10788,7 +10808,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-18",
-      "last_checked": "2026-10-18",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-18",
       "notes": "2026-10-18初観測（求人受理日・掲載開始日とは異なる）。中国人従業員在籍。母国大学卒向け。"
     },
@@ -10821,7 +10841,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-18",
-      "last_checked": "2026-10-18",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-18",
       "notes": "2026-10-18初観測（求人受理日・掲載開始日とは異なる）。年休126日、締切11月30日。"
     },
@@ -10854,7 +10874,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-18",
-      "last_checked": "2026-10-18",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-18",
       "notes": "2026-10-18初観測（求人受理日・掲載開始日とは異なる）。締切11月30日。"
     },
@@ -10887,7 +10907,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-19",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-19",
       "notes": "2026-10-19に個票を確認。初回観測日であり掲載開始日を表すものではない。年間休日125日。未経験入社が多数と明記。"
     },
@@ -10920,7 +10940,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-19",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-19",
       "notes": "2026-10-19に個票を確認。初回観測日であり掲載開始日を表すものではない。試用3か月は労働条件が異なる。詳細確認。"
     },
@@ -10953,7 +10973,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-19",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-19",
       "notes": "2026-10-19に個票を確認。初回観測日であり掲載開始日を表すものではない。年間休日126日。"
     },
@@ -10986,7 +11006,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-19",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-19",
       "notes": "2026-10-19に個票を確認。初回観測日であり掲載開始日を表すものではない。試用3～6か月同条件。転勤は東京・在宅勤務の可能性。"
     },
@@ -11016,12 +11036,12 @@
       "deadline": "2026-12-31",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "外国人採用実績あり",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-19",
-      "last_changed": "2026-10-19",
-      "notes": "2026-10-19に個票を確認。初回観測日であり掲載開始日を表すものではない。年間休日128日。求人票原文の在留資格記載は相談可のみで、就労可否を意味しない。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "2026-10-19に個票を確認。初回観測日であり掲載開始日を表すものではない。年間休日128日。求人票原文の在留資格記載は相談可のみで、就労可否を意味しない。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "hellowork-27140-06492361",
@@ -11049,12 +11069,12 @@
       "deadline": "2026-12-31",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "外国人採用実績あり",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-19",
-      "last_changed": "2026-10-19",
-      "notes": "2026-10-19に個票を確認。初回観測日であり掲載開始日を表すものではない。試用3か月は条件が異なる。年間休日115日。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "2026-10-19に個票を確認。初回観測日であり掲載開始日を表すものではない。試用3か月は条件が異なる。年間休日115日。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "hellowork-27010-41889461",
@@ -11085,7 +11105,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-19",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-19",
       "notes": "2026-10-19に個票を確認。初回観測日であり掲載開始日を表すものではない。試用6か月同条件。年間休日120日。"
     },
@@ -11118,7 +11138,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-19",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-19",
       "notes": "2026-10-19に個票を確認。初回観測日であり掲載開始日を表すものではない。年間休日120日。"
     },
@@ -11151,7 +11171,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-19",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-19",
       "notes": "2026-10-19に個票を確認。初回観測日であり掲載開始日を表すものではない。試用3か月同条件。"
     },
@@ -11184,7 +11204,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-19",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-19",
       "notes": "2026-10-19に個票を確認。初回観測日であり掲載開始日を表すものではない。年間休日87日。休日条件の説明必須。"
     },
@@ -11217,7 +11237,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-19",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-19",
       "notes": "2026-10-19に個票を確認。初回観測日であり掲載開始日を表すものではない。関西転勤の可能性。年間休日123日。"
     },
@@ -11250,7 +11270,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-19",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-19",
       "notes": "2026-10-19に個票を確認。初回観測日であり掲載開始日を表すものではない。年間休日121日。"
     },
@@ -11283,7 +11303,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-19",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-19",
       "notes": "2026-10-19に個票を確認。初回観測日であり掲載開始日を表すものではない。固定残業20時間分を含む。"
     },
@@ -11313,12 +11333,12 @@
       "deadline": "2026-11-30",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-19",
-      "last_changed": "2026-10-19",
-      "notes": "2026-10-19に個票を確認。初回観測日であり掲載開始日を表すものではない。年間休日112日。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "2026-10-19に個票を確認。初回観測日であり掲載開始日を表すものではない。年間休日112日。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "hellowork-28050-20633361",
@@ -11349,7 +11369,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-19",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-19",
       "notes": "2026-10-19に個票を確認。初回観測日であり掲載開始日を表すものではない。母国大学卒業者向け。年間休日120日。"
     },
@@ -11382,7 +11402,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-19",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-19",
       "notes": "2026-10-19に個票を確認。初回観測日であり掲載開始日を表すものではない。試用3か月同条件、年間休日120日。"
     },
@@ -11415,7 +11435,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-19",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-19",
       "notes": "2026-10-19に個票を確認。初回観測日であり掲載開始日を表すものではない。実務経験0年の学生は経験要件の確認が必要。"
     },
@@ -11445,12 +11465,12 @@
       "deadline": "2026-11-30",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-19",
-      "last_changed": "2026-10-19",
-      "notes": "2026-10-19に個票を確認。初回観測日であり掲載開始日を表すものではない。年休128日、試用6か月同条件。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "2026-10-19に個票を確認。初回観測日であり掲載開始日を表すものではない。年休128日、試用6か月同条件。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "hellowork-28080-07686161",
@@ -11481,7 +11501,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-19",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-19",
       "notes": "2026-10-19に個票を確認。初回観測日であり掲載開始日を表すものではない。固定残業約5時間分あり。年間休日105日。"
     },
@@ -11511,12 +11531,12 @@
       "deadline": "2026-12-31",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-19",
-      "last_changed": "2026-10-19",
-      "notes": "2026-10-19に個票を確認。初回観測日であり掲載開始日を表すものではない。1日7時間勤務。年間休日125日。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "2026-10-19に個票を確認。初回観測日であり掲載開始日を表すものではない。1日7時間勤務。年間休日125日。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "hellowork-28080-07735361",
@@ -11544,12 +11564,12 @@
       "deadline": "2026-11-30",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "外国人採用実績あり",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-19",
-      "last_changed": "2026-10-19",
-      "notes": "2026-10-19に個票を確認。初回観測日であり掲載開始日を表すものではない。年間休日117日。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "2026-10-19に個票を確認。初回観測日であり掲載開始日を表すものではない。年間休日117日。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "hellowork-27010-39590161",
@@ -11571,7 +11591,7 @@
       "foreign_hiring_text": "記載なし",
       "application_method": "ハローワーク紹介（求人番号 27010-39590161）",
       "first_seen": "2026-10-20",
-      "last_checked": "2026-10-23",
+      "last_checked": "2026-11-24",
       "status": "active",
       "change_type": "unchanged",
       "notes": "試用3か月の条件が異なる 2026-10-21掲載を再確認。",
@@ -11599,7 +11619,7 @@
       "foreign_hiring_text": "記載なし",
       "application_method": "ハローワーク紹介（求人番号 27010-45851761）",
       "first_seen": "2026-10-20",
-      "last_checked": "2026-10-20",
+      "last_checked": "2026-11-24",
       "status": "active",
       "change_type": "unchanged",
       "notes": "3か月契約、条件付き更新・上限なし、正社員登用実績7名。試用条件差あり",
@@ -11627,13 +11647,13 @@
       "foreign_hiring_text": "記載なし",
       "application_method": "ハローワーク紹介（求人番号 27030-25433861）",
       "first_seen": "2026-10-20",
-      "last_checked": "2026-10-20",
-      "status": "active",
-      "change_type": "unchanged",
-      "notes": "試用3か月同条件",
+      "last_checked": "2026-11-24",
+      "status": "closed",
+      "change_type": "closed",
+      "notes": "試用3か月同条件 2026-11-24 棚卸し：HTTP 410 Gone",
       "region_priority": "osaka",
       "prefecture": "大阪府",
-      "last_changed": "2026-10-20"
+      "last_changed": "2026-11-24"
     },
     {
       "job_id": "hellowork-27010-42885061",
@@ -11655,7 +11675,7 @@
       "foreign_hiring_text": "記載なし",
       "application_method": "ハローワーク紹介（求人番号 27010-42885061）",
       "first_seen": "2026-10-20",
-      "last_checked": "2026-10-20",
+      "last_checked": "2026-11-24",
       "status": "active",
       "change_type": "unchanged",
       "notes": "年間休日127日",
@@ -11683,13 +11703,13 @@
       "foreign_hiring_text": "記載なし",
       "application_method": "ハローワーク紹介（求人番号 27060-29875061）",
       "first_seen": "2026-10-20",
-      "last_checked": "2026-10-20",
-      "status": "active",
-      "change_type": "unchanged",
-      "notes": "6か月契約、条件付き更新、正社員登用実績4名。固定残業30時間分",
+      "last_checked": "2026-11-24",
+      "status": "closed",
+      "change_type": "closed",
+      "notes": "6か月契約、条件付き更新、正社員登用実績4名。固定残業30時間分 2026-11-24 棚卸し：HTTP 410 Gone",
       "region_priority": "osaka",
       "prefecture": "大阪府",
-      "last_changed": "2026-10-20"
+      "last_changed": "2026-11-24"
     },
     {
       "job_id": "hellowork-27060-30012861",
@@ -11711,7 +11731,7 @@
       "foreign_hiring_text": "記載なし",
       "application_method": "ハローワーク紹介（求人番号 27060-30012861）",
       "first_seen": "2026-10-20",
-      "last_checked": "2026-10-20",
+      "last_checked": "2026-11-24",
       "status": "active",
       "change_type": "unchanged",
       "notes": "配属仕事内容を確認",
@@ -11739,7 +11759,7 @@
       "foreign_hiring_text": "記載なし",
       "application_method": "ハローワーク紹介（求人番号 27060-27499661）",
       "first_seen": "2026-10-20",
-      "last_checked": "2026-10-20",
+      "last_checked": "2026-11-24",
       "status": "active",
       "change_type": "unchanged",
       "notes": "6か月原則更新、正社員登用実績あり",
@@ -11767,7 +11787,7 @@
       "foreign_hiring_text": "記載なし",
       "application_method": "ハローワーク紹介（求人番号 27010-46647061）",
       "first_seen": "2026-10-20",
-      "last_checked": "2026-10-20",
+      "last_checked": "2026-11-24",
       "status": "active",
       "change_type": "unchanged",
       "notes": "固定残業18.5時間分",
@@ -11795,7 +11815,7 @@
       "foreign_hiring_text": "記載なし",
       "application_method": "ハローワーク紹介（求人番号 27030-29462961）",
       "first_seen": "2026-10-20",
-      "last_checked": "2026-10-20",
+      "last_checked": "2026-11-24",
       "status": "active",
       "change_type": "unchanged",
       "notes": "学校の演習が経験条件を満たすか要確認",
@@ -11823,7 +11843,7 @@
       "foreign_hiring_text": "記載なし",
       "application_method": "ハローワーク紹介（求人番号 27120-09486261）",
       "first_seen": "2026-10-20",
-      "last_checked": "2026-10-20",
+      "last_checked": "2026-11-24",
       "status": "active",
       "change_type": "unchanged",
       "notes": "実務経験0年の学生には不適合、別途実務経験保有者向け",
@@ -11851,13 +11871,13 @@
       "foreign_hiring_text": "記載なし",
       "application_method": "ハローワーク紹介（求人番号 27150-17440061）",
       "first_seen": "2026-10-20",
-      "last_checked": "2026-10-25",
-      "status": "active",
-      "change_type": "unchanged",
-      "notes": "年間休日127日。外国人採用実績は記載なし。固定残業3～45時間分 2026-10-21掲載を再確認。 2026-10-25個票再確認・掲載継続。",
+      "last_checked": "2026-11-24",
+      "status": "closed",
+      "change_type": "closed",
+      "notes": "年間休日127日。外国人採用実績は記載なし。固定残業3～45時間分 2026-10-21掲載を再確認。 2026-10-25個票再確認・掲載継続。 2026-11-24 棚卸し：HTTP 410 Gone",
       "region_priority": "osaka",
       "prefecture": "大阪府",
-      "last_changed": "2026-10-20"
+      "last_changed": "2026-11-24"
     },
     {
       "job_id": "hellowork-13010-86597261",
@@ -11879,13 +11899,13 @@
       "foreign_hiring_text": "記載なし",
       "application_method": "ハローワーク紹介（求人番号 13010-86597261）",
       "first_seen": "2026-10-20",
-      "last_checked": "2026-10-20",
-      "status": "active",
-      "change_type": "unchanged",
-      "notes": "試用3～6か月の待遇差あり",
+      "last_checked": "2026-11-24",
+      "status": "closed",
+      "change_type": "closed",
+      "notes": "試用3～6か月の待遇差あり 2026-11-24 棚卸し：HTTP 410 Gone",
       "region_priority": "kansai",
       "prefecture": "京都府",
-      "last_changed": "2026-10-20"
+      "last_changed": "2026-11-24"
     },
     {
       "job_id": "hellowork-12090-16632961",
@@ -11907,7 +11927,7 @@
       "foreign_hiring_text": "記載なし",
       "application_method": "ハローワーク紹介（求人番号 12090-16632961）",
       "first_seen": "2026-10-20",
-      "last_checked": "2026-10-20",
+      "last_checked": "2026-11-24",
       "status": "active",
       "change_type": "unchanged",
       "notes": "試用6か月条件差、他事業所研修・転勤可能性",
@@ -11935,7 +11955,7 @@
       "foreign_hiring_text": "記載なし",
       "application_method": "ハローワーク紹介（求人番号 12090-16633161）",
       "first_seen": "2026-10-20",
-      "last_checked": "2026-10-20",
+      "last_checked": "2026-11-24",
       "status": "active",
       "change_type": "unchanged",
       "notes": "試用3～6か月条件差、他事業所研修・転勤可能性",
@@ -11963,7 +11983,7 @@
       "foreign_hiring_text": "記載なし",
       "application_method": "ハローワーク紹介（求人番号 26020-23853761）",
       "first_seen": "2026-10-20",
-      "last_checked": "2026-10-20",
+      "last_checked": "2026-11-24",
       "status": "active",
       "change_type": "unchanged",
       "notes": "年間休日105日",
@@ -11991,7 +12011,7 @@
       "foreign_hiring_text": "記載なし",
       "application_method": "ハローワーク紹介（求人番号 13120-21655961）",
       "first_seen": "2026-10-20",
-      "last_checked": "2026-10-20",
+      "last_checked": "2026-11-24",
       "status": "active",
       "change_type": "unchanged",
       "notes": "試用3～6か月待遇差",
@@ -12019,7 +12039,7 @@
       "foreign_hiring_text": "記載なし",
       "application_method": "ハローワーク紹介（求人番号 28020-15636161）",
       "first_seen": "2026-10-20",
-      "last_checked": "2026-10-20",
+      "last_checked": "2026-11-24",
       "status": "active",
       "change_type": "unchanged",
       "notes": "顧客先病院での請負業務、雇用は正社員",
@@ -12047,7 +12067,7 @@
       "foreign_hiring_text": "記載なし",
       "application_method": "ハローワーク紹介（求人番号 13070-67312861）",
       "first_seen": "2026-10-20",
-      "last_checked": "2026-10-20",
+      "last_checked": "2026-11-24",
       "status": "active",
       "change_type": "unchanged",
       "notes": "年休126日。他拠点への転勤可能性",
@@ -12081,7 +12101,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-21",
-      "last_checked": "2026-10-21",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-21",
       "notes": "本日初回観測。就職面接会2026秋対象。"
     },
@@ -12111,7 +12131,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-21",
-      "last_checked": "2026-10-21",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-21",
       "notes": "本日初回観測。就職面接会2026秋対象。"
     },
@@ -12141,7 +12161,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-21",
-      "last_checked": "2026-10-21",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-21",
       "notes": "本日初回観測。就職面接会2026秋対象。"
     },
@@ -12171,7 +12191,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-21",
-      "last_checked": "2026-10-21",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-21",
       "notes": "本日初回観測。就職面接会2026秋対象。"
     },
@@ -12201,7 +12221,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-21",
-      "last_checked": "2026-10-21",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-21",
       "notes": "本日初回観測。就職面接会2026秋対象。"
     },
@@ -12231,7 +12251,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-21",
-      "last_checked": "2026-10-21",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-21",
       "notes": "本日初回観測。就職面接会2026秋対象。"
     },
@@ -12261,7 +12281,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-21",
-      "last_checked": "2026-10-21",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-21",
       "notes": "本日初回観測。就職面接会2026秋対象。"
     },
@@ -12291,7 +12311,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-21",
-      "last_checked": "2026-10-21",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-21",
       "notes": "本日初回観測。就職面接会2026秋対象。"
     },
@@ -12321,7 +12341,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-21",
-      "last_checked": "2026-10-21",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-21",
       "notes": "本日初回観測。就職面接会2026秋対象。"
     },
@@ -12351,7 +12371,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-21",
-      "last_checked": "2026-10-21",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-21",
       "notes": "本日初回観測。就職面接会2026秋対象。"
     },
@@ -12381,7 +12401,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-21",
-      "last_checked": "2026-10-21",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-21",
       "notes": "本日初回観測。就職面接会2026秋対象。"
     },
@@ -12411,7 +12431,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-21",
-      "last_checked": "2026-10-21",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-21",
       "notes": "本日初回観測。就職面接会2026秋対象。"
     },
@@ -12441,7 +12461,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-21",
-      "last_checked": "2026-10-21",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-21",
       "notes": "本日初回観測。就職面接会2026秋対象。"
     },
@@ -12471,7 +12491,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-21",
-      "last_checked": "2026-10-21",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-21",
       "notes": "本日初回観測。就職面接会2026秋対象。"
     },
@@ -12501,7 +12521,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-21",
-      "last_checked": "2026-10-21",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-21",
       "notes": "本日初回観測。就職面接会2026秋対象。"
     },
@@ -12531,7 +12551,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-21",
-      "last_checked": "2026-10-21",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-21",
       "notes": "本日初回観測。就職面接会2026秋対象。"
     },
@@ -12561,7 +12581,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-21",
-      "last_checked": "2026-10-21",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-21",
       "notes": "本日初回観測。就職面接会2026秋対象。"
     },
@@ -12591,7 +12611,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-21",
-      "last_checked": "2026-10-21",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-21",
       "notes": "本日初回観測。就職面接会2026秋対象。"
     },
@@ -12624,7 +12644,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-22",
-      "last_checked": "2026-10-22",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-22",
       "notes": "10月22日実観測復旧JSONから継承。当日再確認は未実施。"
     },
@@ -12657,7 +12677,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-22",
-      "last_checked": "2026-10-22",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-22",
       "notes": "10月22日実観測復旧JSONから継承。当日再確認は未実施。"
     },
@@ -12690,7 +12710,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-22",
-      "last_checked": "2026-10-22",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-22",
       "notes": "10月22日実観測復旧JSONから継承。当日再確認は未実施。"
     },
@@ -12723,7 +12743,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-22",
-      "last_checked": "2026-10-22",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-22",
       "notes": "10月22日実観測復旧JSONから継承。当日再確認は未実施。"
     },
@@ -12756,7 +12776,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-22",
-      "last_checked": "2026-10-22",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-22",
       "notes": "10月22日実観測復旧JSONから継承。当日再確認は未実施。"
     },
@@ -12789,7 +12809,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-22",
-      "last_checked": "2026-10-22",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-22",
       "notes": "10月22日実観測復旧JSONから継承。当日再確認は未実施。"
     },
@@ -12822,7 +12842,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-22",
-      "last_checked": "2026-10-22",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-22",
       "notes": "10月22日実観測復旧JSONから継承。当日再確認は未実施。"
     },
@@ -12855,7 +12875,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-22",
-      "last_checked": "2026-10-22",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-22",
       "notes": "10月22日実観測復旧JSONから継承。当日再確認は未実施。"
     },
@@ -12888,7 +12908,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-22",
-      "last_checked": "2026-10-22",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-22",
       "notes": "10月22日実観測復旧JSONから継承。当日再確認は未実施。"
     },
@@ -12918,12 +12938,12 @@
       "deadline": "2026-12-31",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-10-22",
-      "last_checked": "2026-10-22",
-      "last_changed": "2026-10-22",
-      "notes": "10月22日実観測復旧JSONから継承。当日再確認は未実施。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "10月22日実観測復旧JSONから継承。当日再確認は未実施。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "hellowork-28010-26854461",
@@ -12951,12 +12971,12 @@
       "deadline": "2026-12-31",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "ベトナム人8名就労中",
-      "status": "active",
-      "change_type": "unchanged",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-10-22",
-      "last_checked": "2026-10-22",
-      "last_changed": "2026-10-22",
-      "notes": "10月22日実観測復旧JSONから継承。当日再確認は未実施。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "10月22日実観測復旧JSONから継承。当日再確認は未実施。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "hellowork-27010-47894561",
@@ -12987,7 +13007,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-23",
-      "last_checked": "2026-10-24",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-23",
       "notes": "本日初観測。試用6か月条件異なる"
     },
@@ -13020,7 +13040,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-23",
-      "last_checked": "2026-10-23",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-23",
       "notes": "本日初観測。試用3か月同条件"
     },
@@ -13053,7 +13073,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-23",
       "notes": "本日初観測。試用なし"
     },
@@ -13086,7 +13106,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-23",
-      "last_checked": "2026-10-23",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-23",
       "notes": "本日初観測。記載なし"
     },
@@ -13119,7 +13139,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-23",
-      "last_checked": "2026-10-23",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-23",
       "notes": "本日初観測。試用3か月同条件"
     },
@@ -13152,7 +13172,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-23",
-      "last_checked": "2026-10-23",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-23",
       "notes": "本日初観測。試用6か月同条件"
     },
@@ -13185,7 +13205,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-23",
-      "last_checked": "2026-10-23",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-23",
       "notes": "本日初観測。記載なし"
     },
@@ -13218,7 +13238,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-23",
-      "last_checked": "2026-10-23",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-23",
       "notes": "本日初観測。試用2か月同条件"
     },
@@ -13251,7 +13271,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-23",
-      "last_checked": "2026-10-23",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-23",
       "notes": "本日初観測。契約社員3か月・原則更新・正社員登用あり"
     },
@@ -13284,7 +13304,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-23",
-      "last_checked": "2026-10-23",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-23",
       "notes": "本日初観測。試用3～6か月条件異なる"
     },
@@ -13317,7 +13337,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-23",
-      "last_checked": "2026-10-23",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-23",
       "notes": "本日初観測。試用6か月同条件"
     },
@@ -13350,7 +13370,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-23",
-      "last_checked": "2026-10-23",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-23",
       "notes": "本日初観測。試用6か月同条件"
     },
@@ -13380,12 +13400,12 @@
       "deadline": "2026-12-31",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "new",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-10-24",
-      "last_checked": "2026-10-24",
-      "last_changed": "2026-10-24",
-      "notes": "2026-10-24に初めて確認した掲載中個票。受理日は別。年間休日125日、試用6か月同条件。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "2026-10-24に初めて確認した掲載中個票。受理日は別。年間休日125日、試用6か月同条件。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "hellowork-27010-47924461",
@@ -13416,7 +13436,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-24",
-      "last_checked": "2026-10-25",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-24",
       "notes": "2026-10-24に初めて確認した掲載中個票。受理日は別。現場・職能手当を含む。勤務地・常駐形態は応募前に確認。 2026-10-25個票再確認・掲載継続。"
     },
@@ -13449,7 +13469,7 @@
       "status": "active",
       "change_type": "new",
       "first_seen": "2026-10-24",
-      "last_checked": "2026-10-24",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-24",
       "notes": "2026-10-24に初めて確認した掲載中個票。受理日は別。学校のCAD演習・自主制作成果を具体的に示す。"
     },
@@ -13482,7 +13502,7 @@
       "status": "active",
       "change_type": "new",
       "first_seen": "2026-10-24",
-      "last_checked": "2026-10-24",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-24",
       "notes": "2026-10-24に初めて確認した掲載中個票。受理日は別。試用2週間同条件。"
     },
@@ -13515,7 +13535,7 @@
       "status": "active",
       "change_type": "new",
       "first_seen": "2026-10-24",
-      "last_checked": "2026-10-24",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-24",
       "notes": "2026-10-24に初めて確認した掲載中個票。受理日は別。経験歓迎と必須条件を区別。"
     },
@@ -13548,7 +13568,7 @@
       "status": "active",
       "change_type": "new",
       "first_seen": "2026-10-24",
-      "last_checked": "2026-10-24",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-24",
       "notes": "2026-10-24に初めて確認した掲載中個票。受理日は別。試用3か月は条件相違、年間休日120日。"
     },
@@ -13578,12 +13598,12 @@
       "deadline": "2026-12-31",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "new",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-10-24",
-      "last_checked": "2026-10-24",
-      "last_changed": "2026-10-24",
-      "notes": "2026-10-24に初めて確認した掲載中個票。受理日は別。固定残業代を含む。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "2026-10-24に初めて確認した掲載中個票。受理日は別。固定残業代を含む。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "hellowork-27150-22361561",
@@ -13614,7 +13634,7 @@
       "status": "active",
       "change_type": "new",
       "first_seen": "2026-10-24",
-      "last_checked": "2026-10-24",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-24",
       "notes": "2026-10-24に初めて確認した掲載中個票。受理日は別。旅行業務経験重視との求人説明もあり、学生の事務能力を確認。"
     },
@@ -13647,7 +13667,7 @@
       "status": "active",
       "change_type": "new",
       "first_seen": "2026-10-24",
-      "last_checked": "2026-10-24",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-24",
       "notes": "2026-10-24に初めて確認した掲載中個票。受理日は別。免許取得状況を確認。"
     },
@@ -13680,7 +13700,7 @@
       "status": "active",
       "change_type": "new",
       "first_seen": "2026-10-24",
-      "last_checked": "2026-10-24",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-24",
       "notes": "2026-10-24に初めて確認した掲載中個票。受理日は別。Web入力業務あり。免許必須。"
     },
@@ -13713,7 +13733,7 @@
       "status": "active",
       "change_type": "new",
       "first_seen": "2026-10-24",
-      "last_checked": "2026-10-24",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-24",
       "notes": "2026-10-24に初めて確認した掲載中個票。受理日は別。年間休日120日。ハローワーク紹介状必須、オンライン自主応募不可。"
     },
@@ -13746,7 +13766,7 @@
       "status": "active",
       "change_type": "new",
       "first_seen": "2026-10-24",
-      "last_checked": "2026-10-24",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-24",
       "notes": "2026-10-24に初めて確認した掲載中個票。受理日は別。固定残業20時間分を含む。"
     },
@@ -13779,7 +13799,7 @@
       "status": "active",
       "change_type": "new",
       "first_seen": "2026-10-24",
-      "last_checked": "2026-10-24",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-24",
       "notes": "2026-10-24に初めて確認した掲載中個票。受理日は別。固定残業45時間分を含む。母国大卒かつ営業経験のある学生向け。"
     },
@@ -13812,7 +13832,7 @@
       "status": "active",
       "change_type": "new",
       "first_seen": "2026-10-24",
-      "last_checked": "2026-10-24",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-24",
       "notes": "2026-10-24に初めて確認した掲載中個票。受理日は別。年間休日105日、繁忙期の時間外勤務に注意。"
     },
@@ -13845,7 +13865,7 @@
       "status": "active",
       "change_type": "new",
       "first_seen": "2026-10-24",
-      "last_checked": "2026-10-24",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-24",
       "notes": "2026-10-24に初めて確認した掲載中個票。受理日は別。年間休日105日。"
     },
@@ -13878,7 +13898,7 @@
       "status": "active",
       "change_type": "new",
       "first_seen": "2026-10-24",
-      "last_checked": "2026-10-24",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-24",
       "notes": "2026-10-24に初めて確認した掲載中個票。受理日は別。応募書類は11月24日必着（求人紹介期限12月31日）。試用3か月は月18万円、年間休日130日。 求人自体の紹介期限は2026-12-31。"
     },
@@ -13908,12 +13928,12 @@
       "deadline": "2026-12-31",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "new",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-10-25",
-      "last_checked": "2026-10-25",
-      "last_changed": "2026-10-25",
-      "notes": "2026-10-25に初めて個票確認。掲載開始日を意味しない。年間休日125日。普通免許は必須、試用3か月同条件。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "2026-10-25に初めて個票確認。掲載開始日を意味しない。年間休日125日。普通免許は必須、試用3か月同条件。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "hellowork-27080-23629961",
@@ -13944,7 +13964,7 @@
       "status": "active",
       "change_type": "new",
       "first_seen": "2026-10-25",
-      "last_checked": "2026-10-25",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-25",
       "notes": "2026-10-25に初めて個票確認。掲載開始日を意味しない。年間休日125日。試用1～3か月は同条件。"
     },
@@ -13977,7 +13997,7 @@
       "status": "active",
       "change_type": "unchanged",
       "first_seen": "2026-10-25",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-25",
       "notes": "2026-10-25に初めて個票確認。掲載開始日を意味しない。年間休日125日、試用3か月同条件。上限額は実際の未経験入社時給与を意味しない。"
     },
@@ -14010,7 +14030,7 @@
       "status": "active",
       "change_type": "new",
       "first_seen": "2026-10-25",
-      "last_checked": "2026-10-25",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-25",
       "notes": "2026-10-25に初めて個票確認。掲載開始日を意味しない。応募条件欄に設計経験の記載があり、経験0年の学生は要照会。試用3か月同条件。"
     },
@@ -14040,12 +14060,12 @@
       "deadline": "2026-11-30",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "new",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-10-25",
-      "last_checked": "2026-10-25",
-      "last_changed": "2026-10-25",
-      "notes": "2026-10-25に初めて個票確認。掲載開始日を意味しない。社内ITトラブルに対応できる技能が前提。試用3か月同条件。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "2026-10-25に初めて個票確認。掲載開始日を意味しない。社内ITトラブルに対応できる技能が前提。試用3か月同条件。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "hellowork-27010-48099561",
@@ -14076,7 +14096,7 @@
       "status": "active",
       "change_type": "new",
       "first_seen": "2026-10-25",
-      "last_checked": "2026-10-25",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-25",
       "notes": "2026-10-25に初めて個票確認。掲載開始日を意味しない。実務経験0年の学生は原則要件未充足。例外的応募可否の企業確認を前提とする。年間休日105日。"
     },
@@ -14109,7 +14129,7 @@
       "status": "active",
       "change_type": "new",
       "first_seen": "2026-10-25",
-      "last_checked": "2026-10-25",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-25",
       "notes": "2026-10-25に初めて個票確認。掲載開始日を意味しない。年間休日114日、試用3か月同条件。派遣事業許可の記載があるため実際の勤務地・就業形態は確認。"
     },
@@ -14142,7 +14162,7 @@
       "status": "active",
       "change_type": "new",
       "first_seen": "2026-10-25",
-      "last_checked": "2026-10-25",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-25",
       "notes": "2026-10-25に初めて個票確認。掲載開始日を意味しない。年間休日120日。試用期間なし。オンライン自主応募不可。"
     },
@@ -14175,7 +14195,7 @@
       "status": "active",
       "change_type": "new",
       "first_seen": "2026-10-25",
-      "last_checked": "2026-10-25",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-25",
       "notes": "2026-10-25に初めて個票確認。掲載開始日を意味しない。年間休日110日。通勤手当なし、試用3か月同条件。"
     },
@@ -14208,7 +14228,7 @@
       "status": "active",
       "change_type": "new",
       "first_seen": "2026-10-25",
-      "last_checked": "2026-10-25",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-25",
       "notes": "2026-10-25に初めて個票確認。掲載開始日を意味しない。正社員募集だが賃金形態は時給制。年間休日121日、試用3か月同条件。"
     },
@@ -14241,7 +14261,7 @@
       "status": "active",
       "change_type": "new",
       "first_seen": "2026-10-25",
-      "last_checked": "2026-10-25",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-10-25",
       "notes": "2026-10-25に初めて個票確認。掲載開始日を意味しない。年間休日115日。全国転勤の可能性あり、火・水曜日休み。試用3か月同条件。"
     },
@@ -14274,7 +14294,7 @@
       "status": "active",
       "change_type": "new",
       "first_seen": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-11-23",
       "notes": "2026-11-23 初観測。掲載開始日を意味しない。出典はハローワーク情報の転載個票。募集継続は応募前にハローワークで再確認。"
     },
@@ -14307,7 +14327,7 @@
       "status": "active",
       "change_type": "new",
       "first_seen": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-11-23",
       "notes": "2026-11-23 初観測。掲載開始日を意味しない。出典はハローワーク情報の転載個票。募集継続は応募前にハローワークで再確認。"
     },
@@ -14337,12 +14357,12 @@
       "deadline": "2027-01-31",
       "foreign_staff_text": "記載なし",
       "foreign_hiring_text": "記載なし",
-      "status": "active",
-      "change_type": "new",
+      "status": "closed",
+      "change_type": "closed",
       "first_seen": "2026-11-23",
-      "last_checked": "2026-11-23",
-      "last_changed": "2026-11-23",
-      "notes": "2026-11-23 初観測。掲載開始日を意味しない。出典はハローワーク情報の転載個票。募集継続は応募前にハローワークで再確認。"
+      "last_checked": "2026-11-24",
+      "last_changed": "2026-11-24",
+      "notes": "2026-11-23 初観測。掲載開始日を意味しない。出典はハローワーク情報の転載個票。募集継続は応募前にハローワークで再確認。 2026-11-24 棚卸し：HTTP 410 Gone"
     },
     {
       "job_id": "hellowork-27010-50753861",
@@ -14373,7 +14393,7 @@
       "status": "active",
       "change_type": "new",
       "first_seen": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-11-23",
       "notes": "2026-11-23 初観測。掲載開始日を意味しない。出典はハローワーク情報の転載個票。募集継続は応募前にハローワークで再確認。"
     },
@@ -14406,7 +14426,7 @@
       "status": "active",
       "change_type": "new",
       "first_seen": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-11-23",
       "notes": "2026-11-23 初観測。掲載開始日を意味しない。出典はハローワーク情報の転載個票。募集継続は応募前にハローワークで再確認。"
     },
@@ -14439,7 +14459,7 @@
       "status": "active",
       "change_type": "new",
       "first_seen": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-11-23",
       "notes": "2026-11-23 初観測。掲載開始日を意味しない。出典はハローワーク情報の転載個票。募集継続は応募前にハローワークで再確認。"
     },
@@ -14472,7 +14492,7 @@
       "status": "active",
       "change_type": "new",
       "first_seen": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-11-23",
       "notes": "2026-11-23 初観測。掲載開始日を意味しない。出典はハローワーク情報の転載個票。募集継続は応募前にハローワークで再確認。"
     },
@@ -14505,7 +14525,7 @@
       "status": "active",
       "change_type": "new",
       "first_seen": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-11-23",
       "notes": "2026-11-23 初観測。掲載開始日を意味しない。出典はハローワーク情報の転載個票。募集継続は応募前にハローワークで再確認。"
     },
@@ -14538,7 +14558,7 @@
       "status": "active",
       "change_type": "new",
       "first_seen": "2026-11-23",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-24",
       "last_changed": "2026-11-23",
       "notes": "2026-11-23 初観測。掲載開始日を意味しない。出典はハローワーク情報の転載個票。募集継続は応募前にハローワークで再確認。"
     },
